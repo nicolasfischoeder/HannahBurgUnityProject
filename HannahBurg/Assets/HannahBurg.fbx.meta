@@ -1,0 +1,4005 @@
+fileFormatVersion: 2
+guid: 0a654d12f0444e340950c7d9bff1872a
+timeCreated: 1456481051
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: areaLight1
+    100002: areaLight1 1
+    100004: areaLight1 2
+    100006: areaLight1 3
+    100008: areaLight1 4
+    100010: areaLight1 5
+    100012: areaLight2
+    100014: areaLight4
+    100016: areaLight5
+    100018: areaLight6
+    100020: areaLight7
+    100022: Boden
+    100024: Brunnen:Brunnen
+    100026: Brunnen:Brunnen 1
+    100028: Brunnen:Dach
+    100030: Brunnen:Dreher
+    100032: Brunnen:pCylinder1
+    100034: Brunnen:pCylinder2
+    100036: Brunnen:pCylinder3
+    100038: Brunnen:Seil
+    100040: Brunnen:Seite_1
+    100042: Brunnen:Seite_2
+    100044: Burg
+    100046: Burg_Fackel
+    100048: Burg_Fackel 1
+    100050: Burg_Fackel1
+    100052: Burg_Fackel1 1
+    100054: Burg_Fackel2
+    100056: Burg_Fackel2 1
+    100058: Burg_Fackel3
+    100060: Burg_Fackel3 1
+    100062: Burg_Fackel4
+    100064: Burg_Fackel4 1
+    100066: Burg_Fackel4 2
+    100068: Burg_Fackel4 3
+    100070: Burg_Fackel4 4
+    100072: Burg_Fackel4 5
+    100074: Burg_Fackel4 6
+    100076: Burg_Fackel4 7
+    100078: Burg_Fackel5
+    100080: Burg_Fackel5 1
+    100082: Burg_Fackel5 2
+    100084: Burg_Fackel5 3
+    100086: Burg_Fackel5 4
+    100088: Burg_Fackel5 5
+    100090: Burg_Fackel5 6
+    100092: Burg_Fackel5 7
+    100094: Burg_Fackel6
+    100096: Burg_Fackel7
+    100098: Burg_Fackel8
+    100100: Burg_Fackel9
+    100102: Burg_Fackel_Licht
+    100104: Burg_Fackel_Licht 1
+    100106: Burg_Fackel_Licht 10
+    100108: Burg_Fackel_Licht 11
+    100110: Burg_Fackel_Licht 12
+    100112: Burg_Fackel_Licht 13
+    100114: Burg_Fackel_Licht 14
+    100116: Burg_Fackel_Licht 15
+    100118: Burg_Fackel_Licht 16
+    100120: Burg_Fackel_Licht 17
+    100122: Burg_Fackel_Licht 18
+    100124: Burg_Fackel_Licht 19
+    100126: Burg_Fackel_Licht 2
+    100128: Burg_Fackel_Licht 20
+    100130: Burg_Fackel_Licht 21
+    100132: Burg_Fackel_Licht 22
+    100134: Burg_Fackel_Licht 23
+    100136: Burg_Fackel_Licht 24
+    100138: Burg_Fackel_Licht 25
+    100140: Burg_Fackel_Licht 26
+    100142: Burg_Fackel_Licht 27
+    100144: Burg_Fackel_Licht 3
+    100146: Burg_Fackel_Licht 4
+    100148: Burg_Fackel_Licht 5
+    100150: Burg_Fackel_Licht 6
+    100152: Burg_Fackel_Licht 7
+    100154: Burg_Fackel_Licht 8
+    100156: Burg_Fackel_Licht 9
+    100158: Burgmauer1:Burgmauer
+    100160: Burgmauer1:HQ
+    100162: Burgmauer1:LQ
+    100164: Burgmauer1:pCube1
+    100166: Burgmauer1:pCube29
+    100168: Burgmauer1:pCube30
+    100170: Burgmauer1:pCube31
+    100172: Burgmauer1:pCube33
+    100174: Burgmauer1:pCube34
+    100176: Burgmauer1:pCube35
+    100178: Burgmauer1:pCube36
+    100180: Burgmauer1:pCube37
+    100182: Burgmauer1:pCube38
+    100184: Burgmauer1:pCube39
+    100186: Burgmauer1:pCube40
+    100188: Burgmauer1:pCube41
+    100190: Burgmauer1:pCube44
+    100192: Burgmauer1:pCube46
+    100194: Burgtor1:Burgtor
+    100196: Burgtor1:Burgtor_2:Burgtor
+    100198: Burgtor1:Burgtor_2:Fenster
+    100200: Burgtor1:Burgtor_2:Links
+    100202: Burgtor1:Burgtor_2:Rechts1
+    100204: Burgtor1:Fallgitter2
+    100206: Burgtor1:Fallgitter3
+    100208: Burgtor1:Grade
+    100210: Burgtor1:Links
+    100212: Burgtor1:Naegel
+    100214: Burgtor1:Naegel 1
+    100216: Burgtor1:Naegel1
+    100218: Burgtor1:Naegel2
+    100220: Burgtor1:Naegel3
+    100222: Burgtor1:Naegel4
+    100224: Burgtor1:Naegel5
+    100226: Burgtor1:Naegel6
+    100228: Burgtor1:pCube1
+    100230: Burgtor1:pCube10
+    100232: Burgtor1:pCube11
+    100234: Burgtor1:pCube12
+    100236: Burgtor1:pCube13
+    100238: Burgtor1:pCube14
+    100240: Burgtor1:pCube15
+    100242: Burgtor1:pCube16
+    100244: Burgtor1:pCube17
+    100246: Burgtor1:pCube18
+    100248: Burgtor1:pCube19
+    100250: Burgtor1:pCube20
+    100252: Burgtor1:pCube21
+    100254: Burgtor1:pCube62
+    100256: Burgtor1:pCube62 1
+    100258: Burgtor1:pCube62 2
+    100260: Burgtor1:pCube62 3
+    100262: Burgtor1:pCube62 4
+    100264: Burgtor1:pCube62 5
+    100266: Burgtor1:pCube62 6
+    100268: Burgtor1:pCube67
+    100270: Burgtor1:pCube67 1
+    100272: Burgtor1:pCube67 2
+    100274: Burgtor1:pCube67 3
+    100276: Burgtor1:pCube67 4
+    100278: Burgtor1:pCube67 5
+    100280: Burgtor1:pCube67 6
+    100282: Burgtor1:pCube69
+    100284: Burgtor1:pCube69 1
+    100286: Burgtor1:pCube69 2
+    100288: Burgtor1:pCube69 3
+    100290: Burgtor1:pCube69 4
+    100292: Burgtor1:pCube69 5
+    100294: Burgtor1:pCube69 6
+    100296: Burgtor1:pCube70
+    100298: Burgtor1:pCube70 1
+    100300: Burgtor1:pCube70 2
+    100302: Burgtor1:pCube70 3
+    100304: Burgtor1:pCube70 4
+    100306: Burgtor1:pCube70 5
+    100308: Burgtor1:pCube70 6
+    100310: Burgtor1:pCube71
+    100312: Burgtor1:pCube71 1
+    100314: Burgtor1:pCube71 2
+    100316: Burgtor1:pCube71 3
+    100318: Burgtor1:pCube71 4
+    100320: Burgtor1:pCube71 5
+    100322: Burgtor1:pCube71 6
+    100324: Burgtor1:pCube72
+    100326: Burgtor1:pCube72 1
+    100328: Burgtor1:pCube72 2
+    100330: Burgtor1:pCube72 3
+    100332: Burgtor1:pCube72 4
+    100334: Burgtor1:pCube72 5
+    100336: Burgtor1:pCube72 6
+    100338: Burgtor1:pCube75
+    100340: Burgtor1:pCube75 1
+    100342: Burgtor1:pCube75 2
+    100344: Burgtor1:pCube75 3
+    100346: Burgtor1:pCube75 4
+    100348: Burgtor1:pCube75 5
+    100350: Burgtor1:pCube75 6
+    100352: Burgtor1:pCube76
+    100354: Burgtor1:pCube76 1
+    100356: Burgtor1:pCube76 2
+    100358: Burgtor1:pCube76 3
+    100360: Burgtor1:pCube76 4
+    100362: Burgtor1:pCube76 5
+    100364: Burgtor1:pCube76 6
+    100366: Burgtor1:pCube77
+    100368: Burgtor1:pCube77 1
+    100370: Burgtor1:pCube77 2
+    100372: Burgtor1:pCube77 3
+    100374: Burgtor1:pCube77 4
+    100376: Burgtor1:pCube77 5
+    100378: Burgtor1:pCube77 6
+    100380: Burgtor1:pCube78
+    100382: Burgtor1:pCube78 1
+    100384: Burgtor1:pCube78 2
+    100386: Burgtor1:pCube78 3
+    100388: Burgtor1:pCube78 4
+    100390: Burgtor1:pCube78 5
+    100392: Burgtor1:pCube78 6
+    100394: Burgtor1:pCube8
+    100396: Burgtor1:pCube81
+    100398: Burgtor1:pCube81 1
+    100400: Burgtor1:pCube81 2
+    100402: Burgtor1:pCube81 3
+    100404: Burgtor1:pCube81 4
+    100406: Burgtor1:pCube81 5
+    100408: Burgtor1:pCube81 6
+    100410: Burgtor1:pCube82
+    100412: Burgtor1:pCube82 1
+    100414: Burgtor1:pCube82 2
+    100416: Burgtor1:pCube82 3
+    100418: Burgtor1:pCube82 4
+    100420: Burgtor1:pCube82 5
+    100422: Burgtor1:pCube82 6
+    100424: Burgtor1:Quer
+    100426: Burgtor1:Rechts1
+    100428: Burgtor1:Turm1:Burgtor:Naegel
+    100430: Burgtor1:Turm1:Burgtor:Naegel 1
+    100432: Burgtor1:Turm1:Burgtor:pCube67
+    100434: Burgtor1:Turm1:Burgtor:pCube69
+    100436: Burgtor1:Turm1:Burgtor:pCube70
+    100438: Burgtor1:Turm1:Burgtor:pCube71
+    100440: Burgtor1:Turm1:Burgtor:pCube72
+    100442: Burgtor1:Turm1:Burgtor:pCube75
+    100444: Burgtor1:Turm1:Burgtor:pCube76
+    100446: Burgtor1:Turm1:Burgtor:pCube77
+    100448: Burgtor1:Turm1:Burgtor:pCube78
+    100450: Burgtor1:Turm1:Burgtor:pCube81
+    100452: Burgtor1:Turm1:Burgtor:pCube82
+    100454: Burgtor1:Turm1:Burgtor:Truhe:pCube62
+    100456: Burgtor_Fackeln
+    100458: Burgtor_Fackeln1
+    100460: Burgtor_Fackeln2
+    100462: Burgtor_Fackeln3
+    100464: Burgtor_Fackeln4
+    100466: Burgtor_Fackeln5
+    100468: Burgtor_Fackeln6
+    100470: Burgtor_Fackeln7
+    100472: Burgtor_Fackeln8
+    100474: Dach_Haus:Dach
+    100476: Dach_Haus:Dach_Haus
+    100478: Dach_Haus:Fenster
+    100480: Dach_Haus:Haus
+    100482: Dach_Haus:pCube26
+    100484: Dach_Haus:pCube27
+    100486: Fachwerk1:Dach
+    100488: Fachwerk1:Dach 1
+    100490: Fachwerk1:Dach1
+    100492: Fachwerk1:Fachwerk
+    100494: Fachwerk1:Fachwerk 1
+    100496: Fachwerk1:Fachwerk1
+    100498: Fachwerk1:Fachwerk2
+    100500: Fachwerk1:Haus3
+    100502: Fachwerk1:Haus_Unten
+    100504: Fachwerk1:Kamin
+    100506: Fachwerk1:Kleines_Dach1
+    100508: Fachwerk1:Kleines_Dach2
+    100510: Fachwerk1:pCube1
+    100512: Fachwerk1:pCube1 1
+    100514: Fachwerk1:pCube2
+    100516: Fachwerk1:pCube2 1
+    100518: Fachwerk1:pCube3
+    100520: Fachwerk1:pCube3 1
+    100522: Fachwerk1:pCube4
+    100524: Fachwerk1:pCube4 1
+    100526: Fachwerk1:pCube6
+    100528: Fachwerk1:pCube6 1
+    100530: Fachwerk1:polySurface1
+    100532: Fachwerk1:polySurface1 1
+    100534: Fachwerk1:polySurface10
+    100536: Fachwerk1:polySurface5
+    100538: Fachwerk1:polySurface6
+    100540: Fachwerk1:polySurface7
+    100542: Fachwerk1:polySurface9
+    100544: Fackel3
+    100546: Fackel4
+    100548: Fackel5
+    100550: Fackel5 1
+    100552: Fackel5 2
+    100554: Fackel6
+    100556: Fackel6 1
+    100558: Fackel6 2
+    100560: Fackel7:pCylinder1
+    100562: Fackel7:pCylinder2
+    100564: Fackel7:pCylinder3
+    100566: Fackel7:pPipe1
+    100568: Fackel8
+    100570: Fackel9
+    100572: Fackel:Fackel
+    100574: Fackel:Fackel 1
+    100576: Fackel:nurbsToPoly2
+    100578: Fackel:pCube1
+    100580: Fackel:pCube2
+    100582: Fackel_Licht
+    100584: Fackel_Licht3
+    100586: Fackel_Licht4
+    100588: Fackel_Licht5
+    100590: Fackel_Licht6
+    100592: Fackel_Licht7
+    100594: Fackeln
+    100596: Feuerwehrhaus1
+    100598: Feuerwehrhaus:Dach
+    100600: Feuerwehrhaus:Dach_auf_Dach
+    100602: Feuerwehrhaus:Dach_auf_Dach_1
+    100604: Feuerwehrhaus:Feuerwehrhaus
+    100606: Feuerwehrhaus:Haus
+    100608: Feuerwehrhaus:Innenwaende
+    100610: Feuerwehrhaus:Kamin
+    100612: Feuerwehrhaus:Kreuz1
+    100614: Feuerwehrhaus:pCube34
+    100616: Feuerwehrhaus:pCube38
+    100618: Feuerwehrhaus:pCube41
+    100620: Feuerwehrhaus:pCube42
+    100622: Feuerwehrhaus:pCube43
+    100624: Feuerwehrhaus:pCube44
+    100626: Feuerwehrhaus:pPlane1
+    100628: Feuerwehrhaus:pPlane2
+    100630: Geisterturm2:Anbau
+    100632: Geisterturm2:Anbau_Rechts
+    100634: Geisterturm2:Dachbereich
+    100636: Geisterturm2:Dachstube
+    100638: Geisterturm2:Dachstuben_Fenster
+    100640: Geisterturm2:Dachstuben_Fenster1
+    100642: Geisterturm2:Fachwerk
+    100644: Geisterturm2:Fenster
+    100646: Geisterturm2:Geisterturm
+    100648: Geisterturm2:group4
+    100650: Geisterturm2:Kamin_Vorne
+    100652: Geisterturm2:Kamin_Vorne1
+    100654: Geisterturm2:Passage:Anbau
+    100656: Geisterturm2:Passage:Dach1
+    100658: Geisterturm2:Passage:Dach2
+    100660: Geisterturm2:Passage:Fenster
+    100662: Geisterturm2:Passage:Fenster1
+    100664: Geisterturm2:polySurface11
+    100666: Geisterturm2:polySurface114
+    100668: Geisterturm2:polySurface115
+    100670: Geisterturm2:polySurface12
+    100672: Geisterturm2:polySurface13
+    100674: Geisterturm2:polySurface14
+    100676: Geisterturm2:polySurface15
+    100678: Geisterturm2:polySurface9
+    100680: Geisterturm2:Ring
+    100682: Geisterturm2:Ring1
+    100684: Geisterturm2:Spitze
+    100686: Geisterturm2:Turm
+    100688: Geisterturm2:Turm 1
+    100690: Geisterturm2:Turmfenster
+    100692: Geisterturm2:Turmzimmer
+    100694: Geisterturm2:Turmzimmer 1
+    100696: Geisterturm2:Weisses
+    100698: Grosses_Fachwerk:Dach
+    100700: Grosses_Fachwerk:Dach 1
+    100702: Grosses_Fachwerk:Dach1
+    100704: Grosses_Fachwerk:Dach_auf_Dach
+    100706: Grosses_Fachwerk:Dach_auf_Dach_1
+    100708: Grosses_Fachwerk:Fachwerk1
+    100710: Grosses_Fachwerk:Femster
+    100712: Grosses_Fachwerk:Femster1
+    100714: Grosses_Fachwerk:Grosses_Fachwerk
+    100716: Grosses_Fachwerk:Heolzer
+    100718: Grosses_Fachwerk:Holz1
+    100720: Grosses_Fachwerk:Holz2
+    100722: Grosses_Fachwerk:Holz5
+    100724: Grosses_Fachwerk:Kreuz
+    100726: Grosses_Fachwerk:polySurface1
+    100728: Grosses_Fachwerk:polySurface2
+    100730: Grosses_Fachwerk:polySurface3
+    100732: Grosses_Fachwerk:Unterteil
+    100734: group1
+    100736: Haeuserreihe:Dach
+    100738: Haeuserreihe:Haeuserreihe
+    100740: Haeuserreihe:Innenwand1
+    100742: Haeuserreihe:Mittlere_Reihe
+    100744: Haeuserreihe:Untere_Reihe
+    100746: //RootNode
+    100748: Haueser_Fackeln
+    100750: Hinter_Turm:Dach
+    100752: Hinter_Turm:Dach1
+    100754: Hinter_Turm:Dach_auf_Dach_1
+    100756: Hinter_Turm:Femster
+    100758: Hinter_Turm:Hinter_Turm
+    100760: Hinter_Turm:Turm
+    100762: Hinter_Turm_Licht
+    100764: Hinterturm:Dach
+    100766: Hinterturm:Dach1
+    100768: Hinterturm:Dach_auf_Dach_1
+    100770: Hinterturm:Femster
+    100772: Hinterturm:Hinter_Turm
+    100774: Hinterturm:Turm
+    100776: Innenbeleuchtung
+    100778: Kirche
+    100780: Kirchturm:Acht
+    100782: Kirchturm:Acht 1
+    100784: Kirchturm:Acht 2
+    100786: Kirchturm:Acht 3
+    100788: Kirchturm:Dach
+    100790: Kirchturm:Dach 1
+    100792: Kirchturm:Dach1
+    100794: Kirchturm:Drei
+    100796: Kirchturm:Drei 1
+    100798: Kirchturm:Drei 2
+    100800: Kirchturm:Drei 3
+    100802: Kirchturm:eins
+    100804: Kirchturm:eins 1
+    100806: Kirchturm:eins 2
+    100808: Kirchturm:eins 3
+    100810: Kirchturm:Elf
+    100812: Kirchturm:Elf 1
+    100814: Kirchturm:Elf 2
+    100816: Kirchturm:Elf 3
+    100818: Kirchturm:Elf 4
+    100820: Kirchturm:Elf 5
+    100822: Kirchturm:Elf 6
+    100824: Kirchturm:Elf 7
+    100826: Kirchturm:Hinten
+    100828: Kirchturm:Kirche
+    100830: Kirchturm:Kirche 1
+    100832: Kirchturm:Kirche 2
+    100834: Kirchturm:Kirchenhalle
+    100836: Kirchturm:Kirchturm
+    100838: Kirchturm:Kirchturm1
+    100840: Kirchturm:Kreuz
+    100842: Kirchturm:Minuten_z
+    100844: Kirchturm:Minuten_z 1
+    100846: Kirchturm:Minuten_z 2
+    100848: Kirchturm:Minuten_z 3
+    100850: Kirchturm:Neun
+    100852: Kirchturm:Neun 1
+    100854: Kirchturm:Neun 2
+    100856: Kirchturm:Neun 3
+    100858: Kirchturm:pCube10
+    100860: Kirchturm:pCube10 1
+    100862: Kirchturm:pCube10 2
+    100864: Kirchturm:pCube10 3
+    100866: Kirchturm:pCube11
+    100868: Kirchturm:pCube11 1
+    100870: Kirchturm:pCube11 2
+    100872: Kirchturm:pCube11 3
+    100874: Kirchturm:pCube12
+    100876: Kirchturm:pCube12 1
+    100878: Kirchturm:pCube12 2
+    100880: Kirchturm:pCube12 3
+    100882: Kirchturm:pCube13
+    100884: Kirchturm:pCube13 1
+    100886: Kirchturm:pCube13 2
+    100888: Kirchturm:pCube13 3
+    100890: Kirchturm:pCube24
+    100892: Kirchturm:pCube24 1
+    100894: Kirchturm:pCube24 2
+    100896: Kirchturm:pCube24 3
+    100898: Kirchturm:pCube25
+    100900: Kirchturm:pCube25 1
+    100902: Kirchturm:pCube25 2
+    100904: Kirchturm:pCube25 3
+    100906: Kirchturm:pCube26
+    100908: Kirchturm:pCube26 1
+    100910: Kirchturm:pCube26 2
+    100912: Kirchturm:pCube26 3
+    100914: Kirchturm:pCube27
+    100916: Kirchturm:pCube27 1
+    100918: Kirchturm:pCube27 2
+    100920: Kirchturm:pCube27 3
+    100922: Kirchturm:pCube28
+    100924: Kirchturm:pCube28 1
+    100926: Kirchturm:pCube28 2
+    100928: Kirchturm:pCube28 3
+    100930: Kirchturm:pCube29
+    100932: Kirchturm:pCube29 1
+    100934: Kirchturm:pCube29 2
+    100936: Kirchturm:pCube29 3
+    100938: Kirchturm:pCube31
+    100940: Kirchturm:pCube31 1
+    100942: Kirchturm:pCube31 2
+    100944: Kirchturm:pCube31 3
+    100946: Kirchturm:pCube32
+    100948: Kirchturm:pCube32 1
+    100950: Kirchturm:pCube32 2
+    100952: Kirchturm:pCube32 3
+    100954: Kirchturm:pCube33
+    100956: Kirchturm:pCube33 1
+    100958: Kirchturm:pCube33 2
+    100960: Kirchturm:pCube33 3
+    100962: Kirchturm:pCube34
+    100964: Kirchturm:pCube34 1
+    100966: Kirchturm:pCube34 2
+    100968: Kirchturm:pCube34 3
+    100970: Kirchturm:pCube35
+    100972: Kirchturm:pCube35 1
+    100974: Kirchturm:pCube35 2
+    100976: Kirchturm:pCube35 3
+    100978: Kirchturm:pCube36
+    100980: Kirchturm:pCube36 1
+    100982: Kirchturm:pCube36 2
+    100984: Kirchturm:pCube36 3
+    100986: Kirchturm:pCube37
+    100988: Kirchturm:pCube37 1
+    100990: Kirchturm:pCube37 2
+    100992: Kirchturm:pCube37 3
+    100994: Kirchturm:pCube38
+    100996: Kirchturm:pCube38 1
+    100998: Kirchturm:pCube38 2
+    101000: Kirchturm:pCube38 3
+    101002: Kirchturm:pCube39
+    101004: Kirchturm:pCube39 1
+    101006: Kirchturm:pCube39 2
+    101008: Kirchturm:pCube39 3
+    101010: Kirchturm:pCube40
+    101012: Kirchturm:pCube40 1
+    101014: Kirchturm:pCube40 2
+    101016: Kirchturm:pCube40 3
+    101018: Kirchturm:pCube41
+    101020: Kirchturm:pCube41 1
+    101022: Kirchturm:pCube41 2
+    101024: Kirchturm:pCube41 3
+    101026: Kirchturm:pCube42
+    101028: Kirchturm:pCube42 1
+    101030: Kirchturm:pCube42 2
+    101032: Kirchturm:pCube42 3
+    101034: Kirchturm:pCube5
+    101036: Kirchturm:pCube5 1
+    101038: Kirchturm:pCube5 2
+    101040: Kirchturm:pCube5 3
+    101042: Kirchturm:pCube6
+    101044: Kirchturm:pCube6 1
+    101046: Kirchturm:pCube6 2
+    101048: Kirchturm:pCube6 3
+    101050: Kirchturm:pCube7
+    101052: Kirchturm:pCube7 1
+    101054: Kirchturm:pCube7 2
+    101056: Kirchturm:pCube7 3
+    101058: Kirchturm:pCube9
+    101060: Kirchturm:pCube9 1
+    101062: Kirchturm:pCube9 2
+    101064: Kirchturm:pCube9 3
+    101066: Kirchturm:pSphere1
+    101068: Kirchturm:pSphere1 1
+    101070: Kirchturm:pSphere1 2
+    101072: Kirchturm:pSphere1 3
+    101074: Kirchturm:Sekunden_Z
+    101076: Kirchturm:Sekunden_Z 1
+    101078: Kirchturm:Sekunden_Z 2
+    101080: Kirchturm:Sekunden_Z 3
+    101082: Kirchturm:Stunden_Z
+    101084: Kirchturm:Stunden_Z 1
+    101086: Kirchturm:Stunden_Z 2
+    101088: Kirchturm:Stunden_Z 3
+    101090: Kirchturm:Turm1
+    101092: Kirchturm:Uhr
+    101094: Kirchturm:Uhr 1
+    101096: Kirchturm:Uhr 2
+    101098: Kirchturm:Uhr 3
+    101100: Kirchturm:Uhr_1
+    101102: Kirchturm:Uhr_2
+    101104: Kirchturm:Uhr_3
+    101106: Kirchturm:Uhr_4
+    101108: Kirchturm:Uhren
+    101110: Kirchturm:Uhrrad
+    101112: Kirchturm:Uhrrad 1
+    101114: Kirchturm:Uhrrad 2
+    101116: Kirchturm:Uhrrad 3
+    101118: Kirchturm:Unterteilugn_Mitte
+    101120: Kirchturm:Unterteilugn_Mitte 1
+    101122: Kirchturm:Unterteilugn_Mitte 2
+    101124: Kirchturm:Unterteilugn_Mitte 3
+    101126: Kirchturm:Vorhaus
+    101128: Kirchturm:Vorhaus 1
+    101130: Kirchturm:Vorne
+    101132: Kirchturm:Zahlen
+    101134: Kirchturm:Zahlen 1
+    101136: Kirchturm:Zahlen 2
+    101138: Kirchturm:Zahlen 3
+    101140: Kirchturm:Zehn
+    101142: Kirchturm:Zehn 1
+    101144: Kirchturm:Zehn 2
+    101146: Kirchturm:Zehn 3
+    101148: Kirchturm:Zwei
+    101150: Kirchturm:Zwei 1
+    101152: Kirchturm:Zwei 2
+    101154: Kirchturm:Zwei 3
+    101156: Kirchturm:Zwoelf
+    101158: Kirchturm:Zwoelf 1
+    101160: Kirchturm:Zwoelf 2
+    101162: Kirchturm:Zwoelf 3
+    101164: LICHT
+    101166: Mauerturm:Burgtuerme
+    101168: Mauerturm:Dach1
+    101170: Mauerturm:Dach1 1
+    101172: Mauerturm:Dach1 10
+    101174: Mauerturm:Dach1 2
+    101176: Mauerturm:Dach1 3
+    101178: Mauerturm:Dach1 4
+    101180: Mauerturm:Dach1 5
+    101182: Mauerturm:Dach1 6
+    101184: Mauerturm:Dach1 7
+    101186: Mauerturm:Dach1 8
+    101188: Mauerturm:Dach1 9
+    101190: Mauerturm:Dach2
+    101192: Mauerturm:Dach2 1
+    101194: Mauerturm:Dach2 2
+    101196: Mauerturm:Dach2 3
+    101198: Mauerturm:Dach2 4
+    101200: Mauerturm:Dach2 5
+    101202: Mauerturm:Dach2 6
+    101204: Mauerturm:Dach2 7
+    101206: Mauerturm:Dach2 8
+    101208: Mauerturm:Dach2 9
+    101210: Mauerturm:HQ_T
+    101212: Mauerturm:HQ_T1
+    101214: Mauerturm:HQ_T2
+    101216: Mauerturm:HQ_T3
+    101218: Mauerturm:LQ_T
+    101220: Mauerturm:LQ_T1
+    101222: Mauerturm:LQ_T2
+    101224: Mauerturm:LQ_T3
+    101226: Mauerturm:LQ_T4
+    101228: Mauerturm:LQ_T5
+    101230: Mauerturm:LQ_T6
+    101232: Mauerturm:Turm
+    101234: Mauerturm:Turm 1
+    101236: Mauerturm:Turm 10
+    101238: Mauerturm:Turm 11
+    101240: Mauerturm:Turm 12
+    101242: Mauerturm:Turm 13
+    101244: Mauerturm:Turm 14
+    101246: Mauerturm:Turm 15
+    101248: Mauerturm:Turm 16
+    101250: Mauerturm:Turm 17
+    101252: Mauerturm:Turm 18
+    101254: Mauerturm:Turm 19
+    101256: Mauerturm:Turm 2
+    101258: Mauerturm:Turm 20
+    101260: Mauerturm:Turm 21
+    101262: Mauerturm:Turm 3
+    101264: Mauerturm:Turm 4
+    101266: Mauerturm:Turm 5
+    101268: Mauerturm:Turm 6
+    101270: Mauerturm:Turm 7
+    101272: Mauerturm:Turm 8
+    101274: Mauerturm:Turm 9
+    101276: Mauerturm:Turm4
+    101278: nurbsToPoly2
+    101280: nurbsToPoly2 1
+    101282: nurbsToPoly2 2
+    101284: nurbsToPoly2 3
+    101286: nurbsToPoly2 4
+    101288: Passage1
+    101290: Passage2
+    101292: Passage:Burgtor:Turm1:Burgtor:pCube50
+    101294: Passage:Burgtor:Turm1:Burgtor:pCube51
+    101296: Passage:Burgtor:Turm1:Burgtor:pCube52
+    101298: Passage:Burgtor:Turm1:Burgtor:pCube53
+    101300: Passage:Burgtor:Turm1:Burgtor:pCube54
+    101302: Passage:Burgtor:Turm1:Burgtor:pCube55
+    101304: Passage:Burgtor:Turm1:Burgtor:pCube56
+    101306: Passage:Burgtor:Turm1:Burgtor:pCube57
+    101308: Passage:Burgtor:Turm1:Burgtor:pCube58
+    101310: Passage:Burgtor:Turm1:Burgtor:pCube59
+    101312: Passage:Burgtor:Turm1:Burgtor:pCube63
+    101314: Passage:Burgtor:Turm1:Burgtor:pCube64
+    101316: Passage:Burgtor:Turm1:Burgtor:pCube65
+    101318: Passage:Burgtor:Turm1:Burgtor:pCube66
+    101320: Passage:Dach
+    101322: Passage:Dach1
+    101324: Passage:Dach_im_Dach
+    101326: Passage:Falltuer
+    101328: Passage:Fenster
+    101330: Passage:Gebaeude
+    101332: Passage:Haus
+    101334: Passage:Innenraum1
+    101336: Passage:Kamin_Seite1
+    101338: Passage:Kamin_Seite2
+    101340: Passage:Kamin_Seite3
+    101342: Passage:Kamine
+    101344: Passage:Seitenhaueser
+    101346: Passage:Seitenhaus_Oben
+    101348: Passage_Fackeln
+    101350: pCube1
+    101352: pCube1 1
+    101354: pCube1 2
+    101356: pCube1 3
+    101358: pCube1 4
+    101360: pCube2
+    101362: pCube2 1
+    101364: pCube2 2
+    101366: pCube2 3
+    101368: pCube2 4
+    101370: pCylinder1
+    101372: pCylinder1 1
+    101374: pCylinder1 10
+    101376: pCylinder1 11
+    101378: pCylinder1 12
+    101380: pCylinder1 13
+    101382: pCylinder1 14
+    101384: pCylinder1 15
+    101386: pCylinder1 16
+    101388: pCylinder1 17
+    101390: pCylinder1 18
+    101392: pCylinder1 19
+    101394: pCylinder1 2
+    101396: pCylinder1 20
+    101398: pCylinder1 21
+    101400: pCylinder1 22
+    101402: pCylinder1 23
+    101404: pCylinder1 24
+    101406: pCylinder1 25
+    101408: pCylinder1 26
+    101410: pCylinder1 3
+    101412: pCylinder1 4
+    101414: pCylinder1 5
+    101416: pCylinder1 6
+    101418: pCylinder1 7
+    101420: pCylinder1 8
+    101422: pCylinder1 9
+    101424: pCylinder2
+    101426: pCylinder2 1
+    101428: pCylinder2 10
+    101430: pCylinder2 11
+    101432: pCylinder2 12
+    101434: pCylinder2 13
+    101436: pCylinder2 14
+    101438: pCylinder2 15
+    101440: pCylinder2 16
+    101442: pCylinder2 17
+    101444: pCylinder2 18
+    101446: pCylinder2 19
+    101448: pCylinder2 2
+    101450: pCylinder2 20
+    101452: pCylinder2 21
+    101454: pCylinder2 22
+    101456: pCylinder2 23
+    101458: pCylinder2 24
+    101460: pCylinder2 25
+    101462: pCylinder2 26
+    101464: pCylinder2 3
+    101466: pCylinder2 4
+    101468: pCylinder2 5
+    101470: pCylinder2 6
+    101472: pCylinder2 7
+    101474: pCylinder2 8
+    101476: pCylinder2 9
+    101478: pCylinder3
+    101480: pCylinder3 1
+    101482: pCylinder3 10
+    101484: pCylinder3 11
+    101486: pCylinder3 12
+    101488: pCylinder3 13
+    101490: pCylinder3 14
+    101492: pCylinder3 15
+    101494: pCylinder3 16
+    101496: pCylinder3 17
+    101498: pCylinder3 18
+    101500: pCylinder3 19
+    101502: pCylinder3 2
+    101504: pCylinder3 20
+    101506: pCylinder3 21
+    101508: pCylinder3 22
+    101510: pCylinder3 23
+    101512: pCylinder3 24
+    101514: pCylinder3 25
+    101516: pCylinder3 26
+    101518: pCylinder3 3
+    101520: pCylinder3 4
+    101522: pCylinder3 5
+    101524: pCylinder3 6
+    101526: pCylinder3 7
+    101528: pCylinder3 8
+    101530: pCylinder3 9
+    101532: pPipe1
+    101534: pPipe1 1
+    101536: pPipe1 10
+    101538: pPipe1 11
+    101540: pPipe1 12
+    101542: pPipe1 13
+    101544: pPipe1 14
+    101546: pPipe1 15
+    101548: pPipe1 16
+    101550: pPipe1 17
+    101552: pPipe1 18
+    101554: pPipe1 19
+    101556: pPipe1 2
+    101558: pPipe1 20
+    101560: pPipe1 21
+    101562: pPipe1 22
+    101564: pPipe1 23
+    101566: pPipe1 24
+    101568: pPipe1 25
+    101570: pPipe1 26
+    101572: pPipe1 3
+    101574: pPipe1 4
+    101576: pPipe1 5
+    101578: pPipe1 6
+    101580: pPipe1 7
+    101582: pPipe1 8
+    101584: pPipe1 9
+    101586: pPlane1
+    101588: pPlane2
+    101590: pPlane3
+    101592: pPlane4
+    101594: Zwischenhaus:Dach
+    101596: Zwischenhaus:Dach 1
+    101598: Zwischenhaus:Etage1
+    101600: Zwischenhaus:Etage2
+    101602: Zwischenhaus:Fachwerk
+    101604: Zwischenhaus:Haus
+    101606: Zwischenhaus:Holz
+    101608: Zwischenhaus:Holz3
+    101610: Zwischenhaus:Holz4
+    101612: Zwischenhaus:Holz5
+    101614: Zwischenhaus:Holz6
+    101616: Zwischenhaus:Holz7
+    101618: Zwischenhaus:Innenraum
+    101620: Zwischenhaus:Kamin_Seite3
+    101622: Zwischenhaus:Kamin_Seite4
+    101624: Zwischenhaus:Kamine
+    101626: Zwischenhaus:Obere_Etage
+    101628: Zwischenhaus:Passage:Kamin_Seite3
+    101630: Zwischenhaus:Zwischenhaus
+    101632: Zwischenhaus_Fackeln_Hinterseite
+    101634: Zwischenhaus_Fackeln_Vorderseite
+    400000: areaLight1
+    400002: areaLight1 1
+    400004: areaLight1 2
+    400006: areaLight1 3
+    400008: areaLight1 4
+    400010: areaLight1 5
+    400012: areaLight2
+    400014: areaLight4
+    400016: areaLight5
+    400018: areaLight6
+    400020: areaLight7
+    400022: Boden
+    400024: Brunnen:Brunnen
+    400026: Brunnen:Brunnen 1
+    400028: Brunnen:Dach
+    400030: Brunnen:Dreher
+    400032: Brunnen:pCylinder1
+    400034: Brunnen:pCylinder2
+    400036: Brunnen:pCylinder3
+    400038: Brunnen:Seil
+    400040: Brunnen:Seite_1
+    400042: Brunnen:Seite_2
+    400044: Burg
+    400046: Burg_Fackel
+    400048: Burg_Fackel 1
+    400050: Burg_Fackel1
+    400052: Burg_Fackel1 1
+    400054: Burg_Fackel2
+    400056: Burg_Fackel2 1
+    400058: Burg_Fackel3
+    400060: Burg_Fackel3 1
+    400062: Burg_Fackel4
+    400064: Burg_Fackel4 1
+    400066: Burg_Fackel4 2
+    400068: Burg_Fackel4 3
+    400070: Burg_Fackel4 4
+    400072: Burg_Fackel4 5
+    400074: Burg_Fackel4 6
+    400076: Burg_Fackel4 7
+    400078: Burg_Fackel5
+    400080: Burg_Fackel5 1
+    400082: Burg_Fackel5 2
+    400084: Burg_Fackel5 3
+    400086: Burg_Fackel5 4
+    400088: Burg_Fackel5 5
+    400090: Burg_Fackel5 6
+    400092: Burg_Fackel5 7
+    400094: Burg_Fackel6
+    400096: Burg_Fackel7
+    400098: Burg_Fackel8
+    400100: Burg_Fackel9
+    400102: Burg_Fackel_Licht
+    400104: Burg_Fackel_Licht 1
+    400106: Burg_Fackel_Licht 10
+    400108: Burg_Fackel_Licht 11
+    400110: Burg_Fackel_Licht 12
+    400112: Burg_Fackel_Licht 13
+    400114: Burg_Fackel_Licht 14
+    400116: Burg_Fackel_Licht 15
+    400118: Burg_Fackel_Licht 16
+    400120: Burg_Fackel_Licht 17
+    400122: Burg_Fackel_Licht 18
+    400124: Burg_Fackel_Licht 19
+    400126: Burg_Fackel_Licht 2
+    400128: Burg_Fackel_Licht 20
+    400130: Burg_Fackel_Licht 21
+    400132: Burg_Fackel_Licht 22
+    400134: Burg_Fackel_Licht 23
+    400136: Burg_Fackel_Licht 24
+    400138: Burg_Fackel_Licht 25
+    400140: Burg_Fackel_Licht 26
+    400142: Burg_Fackel_Licht 27
+    400144: Burg_Fackel_Licht 3
+    400146: Burg_Fackel_Licht 4
+    400148: Burg_Fackel_Licht 5
+    400150: Burg_Fackel_Licht 6
+    400152: Burg_Fackel_Licht 7
+    400154: Burg_Fackel_Licht 8
+    400156: Burg_Fackel_Licht 9
+    400158: Burgmauer1:Burgmauer
+    400160: Burgmauer1:HQ
+    400162: Burgmauer1:LQ
+    400164: Burgmauer1:pCube1
+    400166: Burgmauer1:pCube29
+    400168: Burgmauer1:pCube30
+    400170: Burgmauer1:pCube31
+    400172: Burgmauer1:pCube33
+    400174: Burgmauer1:pCube34
+    400176: Burgmauer1:pCube35
+    400178: Burgmauer1:pCube36
+    400180: Burgmauer1:pCube37
+    400182: Burgmauer1:pCube38
+    400184: Burgmauer1:pCube39
+    400186: Burgmauer1:pCube40
+    400188: Burgmauer1:pCube41
+    400190: Burgmauer1:pCube44
+    400192: Burgmauer1:pCube46
+    400194: Burgtor1:Burgtor
+    400196: Burgtor1:Burgtor_2:Burgtor
+    400198: Burgtor1:Burgtor_2:Fenster
+    400200: Burgtor1:Burgtor_2:Links
+    400202: Burgtor1:Burgtor_2:Rechts1
+    400204: Burgtor1:Fallgitter2
+    400206: Burgtor1:Fallgitter3
+    400208: Burgtor1:Grade
+    400210: Burgtor1:Links
+    400212: Burgtor1:Naegel
+    400214: Burgtor1:Naegel 1
+    400216: Burgtor1:Naegel1
+    400218: Burgtor1:Naegel2
+    400220: Burgtor1:Naegel3
+    400222: Burgtor1:Naegel4
+    400224: Burgtor1:Naegel5
+    400226: Burgtor1:Naegel6
+    400228: Burgtor1:pCube1
+    400230: Burgtor1:pCube10
+    400232: Burgtor1:pCube11
+    400234: Burgtor1:pCube12
+    400236: Burgtor1:pCube13
+    400238: Burgtor1:pCube14
+    400240: Burgtor1:pCube15
+    400242: Burgtor1:pCube16
+    400244: Burgtor1:pCube17
+    400246: Burgtor1:pCube18
+    400248: Burgtor1:pCube19
+    400250: Burgtor1:pCube20
+    400252: Burgtor1:pCube21
+    400254: Burgtor1:pCube62
+    400256: Burgtor1:pCube62 1
+    400258: Burgtor1:pCube62 2
+    400260: Burgtor1:pCube62 3
+    400262: Burgtor1:pCube62 4
+    400264: Burgtor1:pCube62 5
+    400266: Burgtor1:pCube62 6
+    400268: Burgtor1:pCube67
+    400270: Burgtor1:pCube67 1
+    400272: Burgtor1:pCube67 2
+    400274: Burgtor1:pCube67 3
+    400276: Burgtor1:pCube67 4
+    400278: Burgtor1:pCube67 5
+    400280: Burgtor1:pCube67 6
+    400282: Burgtor1:pCube69
+    400284: Burgtor1:pCube69 1
+    400286: Burgtor1:pCube69 2
+    400288: Burgtor1:pCube69 3
+    400290: Burgtor1:pCube69 4
+    400292: Burgtor1:pCube69 5
+    400294: Burgtor1:pCube69 6
+    400296: Burgtor1:pCube70
+    400298: Burgtor1:pCube70 1
+    400300: Burgtor1:pCube70 2
+    400302: Burgtor1:pCube70 3
+    400304: Burgtor1:pCube70 4
+    400306: Burgtor1:pCube70 5
+    400308: Burgtor1:pCube70 6
+    400310: Burgtor1:pCube71
+    400312: Burgtor1:pCube71 1
+    400314: Burgtor1:pCube71 2
+    400316: Burgtor1:pCube71 3
+    400318: Burgtor1:pCube71 4
+    400320: Burgtor1:pCube71 5
+    400322: Burgtor1:pCube71 6
+    400324: Burgtor1:pCube72
+    400326: Burgtor1:pCube72 1
+    400328: Burgtor1:pCube72 2
+    400330: Burgtor1:pCube72 3
+    400332: Burgtor1:pCube72 4
+    400334: Burgtor1:pCube72 5
+    400336: Burgtor1:pCube72 6
+    400338: Burgtor1:pCube75
+    400340: Burgtor1:pCube75 1
+    400342: Burgtor1:pCube75 2
+    400344: Burgtor1:pCube75 3
+    400346: Burgtor1:pCube75 4
+    400348: Burgtor1:pCube75 5
+    400350: Burgtor1:pCube75 6
+    400352: Burgtor1:pCube76
+    400354: Burgtor1:pCube76 1
+    400356: Burgtor1:pCube76 2
+    400358: Burgtor1:pCube76 3
+    400360: Burgtor1:pCube76 4
+    400362: Burgtor1:pCube76 5
+    400364: Burgtor1:pCube76 6
+    400366: Burgtor1:pCube77
+    400368: Burgtor1:pCube77 1
+    400370: Burgtor1:pCube77 2
+    400372: Burgtor1:pCube77 3
+    400374: Burgtor1:pCube77 4
+    400376: Burgtor1:pCube77 5
+    400378: Burgtor1:pCube77 6
+    400380: Burgtor1:pCube78
+    400382: Burgtor1:pCube78 1
+    400384: Burgtor1:pCube78 2
+    400386: Burgtor1:pCube78 3
+    400388: Burgtor1:pCube78 4
+    400390: Burgtor1:pCube78 5
+    400392: Burgtor1:pCube78 6
+    400394: Burgtor1:pCube8
+    400396: Burgtor1:pCube81
+    400398: Burgtor1:pCube81 1
+    400400: Burgtor1:pCube81 2
+    400402: Burgtor1:pCube81 3
+    400404: Burgtor1:pCube81 4
+    400406: Burgtor1:pCube81 5
+    400408: Burgtor1:pCube81 6
+    400410: Burgtor1:pCube82
+    400412: Burgtor1:pCube82 1
+    400414: Burgtor1:pCube82 2
+    400416: Burgtor1:pCube82 3
+    400418: Burgtor1:pCube82 4
+    400420: Burgtor1:pCube82 5
+    400422: Burgtor1:pCube82 6
+    400424: Burgtor1:Quer
+    400426: Burgtor1:Rechts1
+    400428: Burgtor1:Turm1:Burgtor:Naegel
+    400430: Burgtor1:Turm1:Burgtor:Naegel 1
+    400432: Burgtor1:Turm1:Burgtor:pCube67
+    400434: Burgtor1:Turm1:Burgtor:pCube69
+    400436: Burgtor1:Turm1:Burgtor:pCube70
+    400438: Burgtor1:Turm1:Burgtor:pCube71
+    400440: Burgtor1:Turm1:Burgtor:pCube72
+    400442: Burgtor1:Turm1:Burgtor:pCube75
+    400444: Burgtor1:Turm1:Burgtor:pCube76
+    400446: Burgtor1:Turm1:Burgtor:pCube77
+    400448: Burgtor1:Turm1:Burgtor:pCube78
+    400450: Burgtor1:Turm1:Burgtor:pCube81
+    400452: Burgtor1:Turm1:Burgtor:pCube82
+    400454: Burgtor1:Turm1:Burgtor:Truhe:pCube62
+    400456: Burgtor_Fackeln
+    400458: Burgtor_Fackeln1
+    400460: Burgtor_Fackeln2
+    400462: Burgtor_Fackeln3
+    400464: Burgtor_Fackeln4
+    400466: Burgtor_Fackeln5
+    400468: Burgtor_Fackeln6
+    400470: Burgtor_Fackeln7
+    400472: Burgtor_Fackeln8
+    400474: Dach_Haus:Dach
+    400476: Dach_Haus:Dach_Haus
+    400478: Dach_Haus:Fenster
+    400480: Dach_Haus:Haus
+    400482: Dach_Haus:pCube26
+    400484: Dach_Haus:pCube27
+    400486: Fachwerk1:Dach
+    400488: Fachwerk1:Dach 1
+    400490: Fachwerk1:Dach1
+    400492: Fachwerk1:Fachwerk
+    400494: Fachwerk1:Fachwerk 1
+    400496: Fachwerk1:Fachwerk1
+    400498: Fachwerk1:Fachwerk2
+    400500: Fachwerk1:Haus3
+    400502: Fachwerk1:Haus_Unten
+    400504: Fachwerk1:Kamin
+    400506: Fachwerk1:Kleines_Dach1
+    400508: Fachwerk1:Kleines_Dach2
+    400510: Fachwerk1:pCube1
+    400512: Fachwerk1:pCube1 1
+    400514: Fachwerk1:pCube2
+    400516: Fachwerk1:pCube2 1
+    400518: Fachwerk1:pCube3
+    400520: Fachwerk1:pCube3 1
+    400522: Fachwerk1:pCube4
+    400524: Fachwerk1:pCube4 1
+    400526: Fachwerk1:pCube6
+    400528: Fachwerk1:pCube6 1
+    400530: Fachwerk1:polySurface1
+    400532: Fachwerk1:polySurface1 1
+    400534: Fachwerk1:polySurface10
+    400536: Fachwerk1:polySurface5
+    400538: Fachwerk1:polySurface6
+    400540: Fachwerk1:polySurface7
+    400542: Fachwerk1:polySurface9
+    400544: Fackel3
+    400546: Fackel4
+    400548: Fackel5
+    400550: Fackel5 1
+    400552: Fackel5 2
+    400554: Fackel6
+    400556: Fackel6 1
+    400558: Fackel6 2
+    400560: Fackel7:pCylinder1
+    400562: Fackel7:pCylinder2
+    400564: Fackel7:pCylinder3
+    400566: Fackel7:pPipe1
+    400568: Fackel8
+    400570: Fackel9
+    400572: Fackel:Fackel
+    400574: Fackel:Fackel 1
+    400576: Fackel:nurbsToPoly2
+    400578: Fackel:pCube1
+    400580: Fackel:pCube2
+    400582: Fackel_Licht
+    400584: Fackel_Licht3
+    400586: Fackel_Licht4
+    400588: Fackel_Licht5
+    400590: Fackel_Licht6
+    400592: Fackel_Licht7
+    400594: Fackeln
+    400596: Feuerwehrhaus1
+    400598: Feuerwehrhaus:Dach
+    400600: Feuerwehrhaus:Dach_auf_Dach
+    400602: Feuerwehrhaus:Dach_auf_Dach_1
+    400604: Feuerwehrhaus:Feuerwehrhaus
+    400606: Feuerwehrhaus:Haus
+    400608: Feuerwehrhaus:Innenwaende
+    400610: Feuerwehrhaus:Kamin
+    400612: Feuerwehrhaus:Kreuz1
+    400614: Feuerwehrhaus:pCube34
+    400616: Feuerwehrhaus:pCube38
+    400618: Feuerwehrhaus:pCube41
+    400620: Feuerwehrhaus:pCube42
+    400622: Feuerwehrhaus:pCube43
+    400624: Feuerwehrhaus:pCube44
+    400626: Feuerwehrhaus:pPlane1
+    400628: Feuerwehrhaus:pPlane2
+    400630: Geisterturm2:Anbau
+    400632: Geisterturm2:Anbau_Rechts
+    400634: Geisterturm2:Dachbereich
+    400636: Geisterturm2:Dachstube
+    400638: Geisterturm2:Dachstuben_Fenster
+    400640: Geisterturm2:Dachstuben_Fenster1
+    400642: Geisterturm2:Fachwerk
+    400644: Geisterturm2:Fenster
+    400646: Geisterturm2:Geisterturm
+    400648: Geisterturm2:group4
+    400650: Geisterturm2:Kamin_Vorne
+    400652: Geisterturm2:Kamin_Vorne1
+    400654: Geisterturm2:Passage:Anbau
+    400656: Geisterturm2:Passage:Dach1
+    400658: Geisterturm2:Passage:Dach2
+    400660: Geisterturm2:Passage:Fenster
+    400662: Geisterturm2:Passage:Fenster1
+    400664: Geisterturm2:polySurface11
+    400666: Geisterturm2:polySurface114
+    400668: Geisterturm2:polySurface115
+    400670: Geisterturm2:polySurface12
+    400672: Geisterturm2:polySurface13
+    400674: Geisterturm2:polySurface14
+    400676: Geisterturm2:polySurface15
+    400678: Geisterturm2:polySurface9
+    400680: Geisterturm2:Ring
+    400682: Geisterturm2:Ring1
+    400684: Geisterturm2:Spitze
+    400686: Geisterturm2:Turm
+    400688: Geisterturm2:Turm 1
+    400690: Geisterturm2:Turmfenster
+    400692: Geisterturm2:Turmzimmer
+    400694: Geisterturm2:Turmzimmer 1
+    400696: Geisterturm2:Weisses
+    400698: Grosses_Fachwerk:Dach
+    400700: Grosses_Fachwerk:Dach 1
+    400702: Grosses_Fachwerk:Dach1
+    400704: Grosses_Fachwerk:Dach_auf_Dach
+    400706: Grosses_Fachwerk:Dach_auf_Dach_1
+    400708: Grosses_Fachwerk:Fachwerk1
+    400710: Grosses_Fachwerk:Femster
+    400712: Grosses_Fachwerk:Femster1
+    400714: Grosses_Fachwerk:Grosses_Fachwerk
+    400716: Grosses_Fachwerk:Heolzer
+    400718: Grosses_Fachwerk:Holz1
+    400720: Grosses_Fachwerk:Holz2
+    400722: Grosses_Fachwerk:Holz5
+    400724: Grosses_Fachwerk:Kreuz
+    400726: Grosses_Fachwerk:polySurface1
+    400728: Grosses_Fachwerk:polySurface2
+    400730: Grosses_Fachwerk:polySurface3
+    400732: Grosses_Fachwerk:Unterteil
+    400734: group1
+    400736: Haeuserreihe:Dach
+    400738: Haeuserreihe:Haeuserreihe
+    400740: Haeuserreihe:Innenwand1
+    400742: Haeuserreihe:Mittlere_Reihe
+    400744: Haeuserreihe:Untere_Reihe
+    400746: //RootNode
+    400748: Haueser_Fackeln
+    400750: Hinter_Turm:Dach
+    400752: Hinter_Turm:Dach1
+    400754: Hinter_Turm:Dach_auf_Dach_1
+    400756: Hinter_Turm:Femster
+    400758: Hinter_Turm:Hinter_Turm
+    400760: Hinter_Turm:Turm
+    400762: Hinter_Turm_Licht
+    400764: Hinterturm:Dach
+    400766: Hinterturm:Dach1
+    400768: Hinterturm:Dach_auf_Dach_1
+    400770: Hinterturm:Femster
+    400772: Hinterturm:Hinter_Turm
+    400774: Hinterturm:Turm
+    400776: Innenbeleuchtung
+    400778: Kirche
+    400780: Kirchturm:Acht
+    400782: Kirchturm:Acht 1
+    400784: Kirchturm:Acht 2
+    400786: Kirchturm:Acht 3
+    400788: Kirchturm:Dach
+    400790: Kirchturm:Dach 1
+    400792: Kirchturm:Dach1
+    400794: Kirchturm:Drei
+    400796: Kirchturm:Drei 1
+    400798: Kirchturm:Drei 2
+    400800: Kirchturm:Drei 3
+    400802: Kirchturm:eins
+    400804: Kirchturm:eins 1
+    400806: Kirchturm:eins 2
+    400808: Kirchturm:eins 3
+    400810: Kirchturm:Elf
+    400812: Kirchturm:Elf 1
+    400814: Kirchturm:Elf 2
+    400816: Kirchturm:Elf 3
+    400818: Kirchturm:Elf 4
+    400820: Kirchturm:Elf 5
+    400822: Kirchturm:Elf 6
+    400824: Kirchturm:Elf 7
+    400826: Kirchturm:Hinten
+    400828: Kirchturm:Kirche
+    400830: Kirchturm:Kirche 1
+    400832: Kirchturm:Kirche 2
+    400834: Kirchturm:Kirchenhalle
+    400836: Kirchturm:Kirchturm
+    400838: Kirchturm:Kirchturm1
+    400840: Kirchturm:Kreuz
+    400842: Kirchturm:Minuten_z
+    400844: Kirchturm:Minuten_z 1
+    400846: Kirchturm:Minuten_z 2
+    400848: Kirchturm:Minuten_z 3
+    400850: Kirchturm:Neun
+    400852: Kirchturm:Neun 1
+    400854: Kirchturm:Neun 2
+    400856: Kirchturm:Neun 3
+    400858: Kirchturm:pCube10
+    400860: Kirchturm:pCube10 1
+    400862: Kirchturm:pCube10 2
+    400864: Kirchturm:pCube10 3
+    400866: Kirchturm:pCube11
+    400868: Kirchturm:pCube11 1
+    400870: Kirchturm:pCube11 2
+    400872: Kirchturm:pCube11 3
+    400874: Kirchturm:pCube12
+    400876: Kirchturm:pCube12 1
+    400878: Kirchturm:pCube12 2
+    400880: Kirchturm:pCube12 3
+    400882: Kirchturm:pCube13
+    400884: Kirchturm:pCube13 1
+    400886: Kirchturm:pCube13 2
+    400888: Kirchturm:pCube13 3
+    400890: Kirchturm:pCube24
+    400892: Kirchturm:pCube24 1
+    400894: Kirchturm:pCube24 2
+    400896: Kirchturm:pCube24 3
+    400898: Kirchturm:pCube25
+    400900: Kirchturm:pCube25 1
+    400902: Kirchturm:pCube25 2
+    400904: Kirchturm:pCube25 3
+    400906: Kirchturm:pCube26
+    400908: Kirchturm:pCube26 1
+    400910: Kirchturm:pCube26 2
+    400912: Kirchturm:pCube26 3
+    400914: Kirchturm:pCube27
+    400916: Kirchturm:pCube27 1
+    400918: Kirchturm:pCube27 2
+    400920: Kirchturm:pCube27 3
+    400922: Kirchturm:pCube28
+    400924: Kirchturm:pCube28 1
+    400926: Kirchturm:pCube28 2
+    400928: Kirchturm:pCube28 3
+    400930: Kirchturm:pCube29
+    400932: Kirchturm:pCube29 1
+    400934: Kirchturm:pCube29 2
+    400936: Kirchturm:pCube29 3
+    400938: Kirchturm:pCube31
+    400940: Kirchturm:pCube31 1
+    400942: Kirchturm:pCube31 2
+    400944: Kirchturm:pCube31 3
+    400946: Kirchturm:pCube32
+    400948: Kirchturm:pCube32 1
+    400950: Kirchturm:pCube32 2
+    400952: Kirchturm:pCube32 3
+    400954: Kirchturm:pCube33
+    400956: Kirchturm:pCube33 1
+    400958: Kirchturm:pCube33 2
+    400960: Kirchturm:pCube33 3
+    400962: Kirchturm:pCube34
+    400964: Kirchturm:pCube34 1
+    400966: Kirchturm:pCube34 2
+    400968: Kirchturm:pCube34 3
+    400970: Kirchturm:pCube35
+    400972: Kirchturm:pCube35 1
+    400974: Kirchturm:pCube35 2
+    400976: Kirchturm:pCube35 3
+    400978: Kirchturm:pCube36
+    400980: Kirchturm:pCube36 1
+    400982: Kirchturm:pCube36 2
+    400984: Kirchturm:pCube36 3
+    400986: Kirchturm:pCube37
+    400988: Kirchturm:pCube37 1
+    400990: Kirchturm:pCube37 2
+    400992: Kirchturm:pCube37 3
+    400994: Kirchturm:pCube38
+    400996: Kirchturm:pCube38 1
+    400998: Kirchturm:pCube38 2
+    401000: Kirchturm:pCube38 3
+    401002: Kirchturm:pCube39
+    401004: Kirchturm:pCube39 1
+    401006: Kirchturm:pCube39 2
+    401008: Kirchturm:pCube39 3
+    401010: Kirchturm:pCube40
+    401012: Kirchturm:pCube40 1
+    401014: Kirchturm:pCube40 2
+    401016: Kirchturm:pCube40 3
+    401018: Kirchturm:pCube41
+    401020: Kirchturm:pCube41 1
+    401022: Kirchturm:pCube41 2
+    401024: Kirchturm:pCube41 3
+    401026: Kirchturm:pCube42
+    401028: Kirchturm:pCube42 1
+    401030: Kirchturm:pCube42 2
+    401032: Kirchturm:pCube42 3
+    401034: Kirchturm:pCube5
+    401036: Kirchturm:pCube5 1
+    401038: Kirchturm:pCube5 2
+    401040: Kirchturm:pCube5 3
+    401042: Kirchturm:pCube6
+    401044: Kirchturm:pCube6 1
+    401046: Kirchturm:pCube6 2
+    401048: Kirchturm:pCube6 3
+    401050: Kirchturm:pCube7
+    401052: Kirchturm:pCube7 1
+    401054: Kirchturm:pCube7 2
+    401056: Kirchturm:pCube7 3
+    401058: Kirchturm:pCube9
+    401060: Kirchturm:pCube9 1
+    401062: Kirchturm:pCube9 2
+    401064: Kirchturm:pCube9 3
+    401066: Kirchturm:pSphere1
+    401068: Kirchturm:pSphere1 1
+    401070: Kirchturm:pSphere1 2
+    401072: Kirchturm:pSphere1 3
+    401074: Kirchturm:Sekunden_Z
+    401076: Kirchturm:Sekunden_Z 1
+    401078: Kirchturm:Sekunden_Z 2
+    401080: Kirchturm:Sekunden_Z 3
+    401082: Kirchturm:Stunden_Z
+    401084: Kirchturm:Stunden_Z 1
+    401086: Kirchturm:Stunden_Z 2
+    401088: Kirchturm:Stunden_Z 3
+    401090: Kirchturm:Turm1
+    401092: Kirchturm:Uhr
+    401094: Kirchturm:Uhr 1
+    401096: Kirchturm:Uhr 2
+    401098: Kirchturm:Uhr 3
+    401100: Kirchturm:Uhr_1
+    401102: Kirchturm:Uhr_2
+    401104: Kirchturm:Uhr_3
+    401106: Kirchturm:Uhr_4
+    401108: Kirchturm:Uhren
+    401110: Kirchturm:Uhrrad
+    401112: Kirchturm:Uhrrad 1
+    401114: Kirchturm:Uhrrad 2
+    401116: Kirchturm:Uhrrad 3
+    401118: Kirchturm:Unterteilugn_Mitte
+    401120: Kirchturm:Unterteilugn_Mitte 1
+    401122: Kirchturm:Unterteilugn_Mitte 2
+    401124: Kirchturm:Unterteilugn_Mitte 3
+    401126: Kirchturm:Vorhaus
+    401128: Kirchturm:Vorhaus 1
+    401130: Kirchturm:Vorne
+    401132: Kirchturm:Zahlen
+    401134: Kirchturm:Zahlen 1
+    401136: Kirchturm:Zahlen 2
+    401138: Kirchturm:Zahlen 3
+    401140: Kirchturm:Zehn
+    401142: Kirchturm:Zehn 1
+    401144: Kirchturm:Zehn 2
+    401146: Kirchturm:Zehn 3
+    401148: Kirchturm:Zwei
+    401150: Kirchturm:Zwei 1
+    401152: Kirchturm:Zwei 2
+    401154: Kirchturm:Zwei 3
+    401156: Kirchturm:Zwoelf
+    401158: Kirchturm:Zwoelf 1
+    401160: Kirchturm:Zwoelf 2
+    401162: Kirchturm:Zwoelf 3
+    401164: LICHT
+    401166: Mauerturm:Burgtuerme
+    401168: Mauerturm:Dach1
+    401170: Mauerturm:Dach1 1
+    401172: Mauerturm:Dach1 10
+    401174: Mauerturm:Dach1 2
+    401176: Mauerturm:Dach1 3
+    401178: Mauerturm:Dach1 4
+    401180: Mauerturm:Dach1 5
+    401182: Mauerturm:Dach1 6
+    401184: Mauerturm:Dach1 7
+    401186: Mauerturm:Dach1 8
+    401188: Mauerturm:Dach1 9
+    401190: Mauerturm:Dach2
+    401192: Mauerturm:Dach2 1
+    401194: Mauerturm:Dach2 2
+    401196: Mauerturm:Dach2 3
+    401198: Mauerturm:Dach2 4
+    401200: Mauerturm:Dach2 5
+    401202: Mauerturm:Dach2 6
+    401204: Mauerturm:Dach2 7
+    401206: Mauerturm:Dach2 8
+    401208: Mauerturm:Dach2 9
+    401210: Mauerturm:HQ_T
+    401212: Mauerturm:HQ_T1
+    401214: Mauerturm:HQ_T2
+    401216: Mauerturm:HQ_T3
+    401218: Mauerturm:LQ_T
+    401220: Mauerturm:LQ_T1
+    401222: Mauerturm:LQ_T2
+    401224: Mauerturm:LQ_T3
+    401226: Mauerturm:LQ_T4
+    401228: Mauerturm:LQ_T5
+    401230: Mauerturm:LQ_T6
+    401232: Mauerturm:Turm
+    401234: Mauerturm:Turm 1
+    401236: Mauerturm:Turm 10
+    401238: Mauerturm:Turm 11
+    401240: Mauerturm:Turm 12
+    401242: Mauerturm:Turm 13
+    401244: Mauerturm:Turm 14
+    401246: Mauerturm:Turm 15
+    401248: Mauerturm:Turm 16
+    401250: Mauerturm:Turm 17
+    401252: Mauerturm:Turm 18
+    401254: Mauerturm:Turm 19
+    401256: Mauerturm:Turm 2
+    401258: Mauerturm:Turm 20
+    401260: Mauerturm:Turm 21
+    401262: Mauerturm:Turm 3
+    401264: Mauerturm:Turm 4
+    401266: Mauerturm:Turm 5
+    401268: Mauerturm:Turm 6
+    401270: Mauerturm:Turm 7
+    401272: Mauerturm:Turm 8
+    401274: Mauerturm:Turm 9
+    401276: Mauerturm:Turm4
+    401278: nurbsToPoly2
+    401280: nurbsToPoly2 1
+    401282: nurbsToPoly2 2
+    401284: nurbsToPoly2 3
+    401286: nurbsToPoly2 4
+    401288: Passage1
+    401290: Passage2
+    401292: Passage:Burgtor:Turm1:Burgtor:pCube50
+    401294: Passage:Burgtor:Turm1:Burgtor:pCube51
+    401296: Passage:Burgtor:Turm1:Burgtor:pCube52
+    401298: Passage:Burgtor:Turm1:Burgtor:pCube53
+    401300: Passage:Burgtor:Turm1:Burgtor:pCube54
+    401302: Passage:Burgtor:Turm1:Burgtor:pCube55
+    401304: Passage:Burgtor:Turm1:Burgtor:pCube56
+    401306: Passage:Burgtor:Turm1:Burgtor:pCube57
+    401308: Passage:Burgtor:Turm1:Burgtor:pCube58
+    401310: Passage:Burgtor:Turm1:Burgtor:pCube59
+    401312: Passage:Burgtor:Turm1:Burgtor:pCube63
+    401314: Passage:Burgtor:Turm1:Burgtor:pCube64
+    401316: Passage:Burgtor:Turm1:Burgtor:pCube65
+    401318: Passage:Burgtor:Turm1:Burgtor:pCube66
+    401320: Passage:Dach
+    401322: Passage:Dach1
+    401324: Passage:Dach_im_Dach
+    401326: Passage:Falltuer
+    401328: Passage:Fenster
+    401330: Passage:Gebaeude
+    401332: Passage:Haus
+    401334: Passage:Innenraum1
+    401336: Passage:Kamin_Seite1
+    401338: Passage:Kamin_Seite2
+    401340: Passage:Kamin_Seite3
+    401342: Passage:Kamine
+    401344: Passage:Seitenhaueser
+    401346: Passage:Seitenhaus_Oben
+    401348: Passage_Fackeln
+    401350: pCube1
+    401352: pCube1 1
+    401354: pCube1 2
+    401356: pCube1 3
+    401358: pCube1 4
+    401360: pCube2
+    401362: pCube2 1
+    401364: pCube2 2
+    401366: pCube2 3
+    401368: pCube2 4
+    401370: pCylinder1
+    401372: pCylinder1 1
+    401374: pCylinder1 10
+    401376: pCylinder1 11
+    401378: pCylinder1 12
+    401380: pCylinder1 13
+    401382: pCylinder1 14
+    401384: pCylinder1 15
+    401386: pCylinder1 16
+    401388: pCylinder1 17
+    401390: pCylinder1 18
+    401392: pCylinder1 19
+    401394: pCylinder1 2
+    401396: pCylinder1 20
+    401398: pCylinder1 21
+    401400: pCylinder1 22
+    401402: pCylinder1 23
+    401404: pCylinder1 24
+    401406: pCylinder1 25
+    401408: pCylinder1 26
+    401410: pCylinder1 3
+    401412: pCylinder1 4
+    401414: pCylinder1 5
+    401416: pCylinder1 6
+    401418: pCylinder1 7
+    401420: pCylinder1 8
+    401422: pCylinder1 9
+    401424: pCylinder2
+    401426: pCylinder2 1
+    401428: pCylinder2 10
+    401430: pCylinder2 11
+    401432: pCylinder2 12
+    401434: pCylinder2 13
+    401436: pCylinder2 14
+    401438: pCylinder2 15
+    401440: pCylinder2 16
+    401442: pCylinder2 17
+    401444: pCylinder2 18
+    401446: pCylinder2 19
+    401448: pCylinder2 2
+    401450: pCylinder2 20
+    401452: pCylinder2 21
+    401454: pCylinder2 22
+    401456: pCylinder2 23
+    401458: pCylinder2 24
+    401460: pCylinder2 25
+    401462: pCylinder2 26
+    401464: pCylinder2 3
+    401466: pCylinder2 4
+    401468: pCylinder2 5
+    401470: pCylinder2 6
+    401472: pCylinder2 7
+    401474: pCylinder2 8
+    401476: pCylinder2 9
+    401478: pCylinder3
+    401480: pCylinder3 1
+    401482: pCylinder3 10
+    401484: pCylinder3 11
+    401486: pCylinder3 12
+    401488: pCylinder3 13
+    401490: pCylinder3 14
+    401492: pCylinder3 15
+    401494: pCylinder3 16
+    401496: pCylinder3 17
+    401498: pCylinder3 18
+    401500: pCylinder3 19
+    401502: pCylinder3 2
+    401504: pCylinder3 20
+    401506: pCylinder3 21
+    401508: pCylinder3 22
+    401510: pCylinder3 23
+    401512: pCylinder3 24
+    401514: pCylinder3 25
+    401516: pCylinder3 26
+    401518: pCylinder3 3
+    401520: pCylinder3 4
+    401522: pCylinder3 5
+    401524: pCylinder3 6
+    401526: pCylinder3 7
+    401528: pCylinder3 8
+    401530: pCylinder3 9
+    401532: pPipe1
+    401534: pPipe1 1
+    401536: pPipe1 10
+    401538: pPipe1 11
+    401540: pPipe1 12
+    401542: pPipe1 13
+    401544: pPipe1 14
+    401546: pPipe1 15
+    401548: pPipe1 16
+    401550: pPipe1 17
+    401552: pPipe1 18
+    401554: pPipe1 19
+    401556: pPipe1 2
+    401558: pPipe1 20
+    401560: pPipe1 21
+    401562: pPipe1 22
+    401564: pPipe1 23
+    401566: pPipe1 24
+    401568: pPipe1 25
+    401570: pPipe1 26
+    401572: pPipe1 3
+    401574: pPipe1 4
+    401576: pPipe1 5
+    401578: pPipe1 6
+    401580: pPipe1 7
+    401582: pPipe1 8
+    401584: pPipe1 9
+    401586: pPlane1
+    401588: pPlane2
+    401590: pPlane3
+    401592: pPlane4
+    401594: Zwischenhaus:Dach
+    401596: Zwischenhaus:Dach 1
+    401598: Zwischenhaus:Etage1
+    401600: Zwischenhaus:Etage2
+    401602: Zwischenhaus:Fachwerk
+    401604: Zwischenhaus:Haus
+    401606: Zwischenhaus:Holz
+    401608: Zwischenhaus:Holz3
+    401610: Zwischenhaus:Holz4
+    401612: Zwischenhaus:Holz5
+    401614: Zwischenhaus:Holz6
+    401616: Zwischenhaus:Holz7
+    401618: Zwischenhaus:Innenraum
+    401620: Zwischenhaus:Kamin_Seite3
+    401622: Zwischenhaus:Kamin_Seite4
+    401624: Zwischenhaus:Kamine
+    401626: Zwischenhaus:Obere_Etage
+    401628: Zwischenhaus:Passage:Kamin_Seite3
+    401630: Zwischenhaus:Zwischenhaus
+    401632: Zwischenhaus_Fackeln_Hinterseite
+    401634: Zwischenhaus_Fackeln_Vorderseite
+    2300000: Brunnen:Brunnen 1
+    2300002: Brunnen:Dach
+    2300004: Brunnen:pCylinder1
+    2300006: Brunnen:pCylinder2
+    2300008: Brunnen:pCylinder3
+    2300010: Brunnen:Seil
+    2300012: Brunnen:Seite_1
+    2300014: Brunnen:Seite_2
+    2300016: Burgmauer1:pCube1
+    2300018: Burgmauer1:pCube29
+    2300020: Burgmauer1:pCube30
+    2300022: Burgmauer1:pCube31
+    2300024: Burgmauer1:pCube33
+    2300026: Burgmauer1:pCube34
+    2300028: Burgmauer1:pCube35
+    2300030: Burgmauer1:pCube36
+    2300032: Burgmauer1:pCube37
+    2300034: Burgmauer1:pCube38
+    2300036: Burgmauer1:pCube39
+    2300038: Burgmauer1:pCube40
+    2300040: Burgmauer1:pCube41
+    2300042: Burgmauer1:pCube44
+    2300044: Burgmauer1:pCube46
+    2300046: Burgtor1:Burgtor_2:Burgtor
+    2300048: Burgtor1:Burgtor_2:Links
+    2300050: Burgtor1:Burgtor_2:Rechts1
+    2300052: Burgtor1:Links
+    2300054: Burgtor1:pCube1
+    2300056: Burgtor1:pCube10
+    2300058: Burgtor1:pCube11
+    2300060: Burgtor1:pCube12
+    2300062: Burgtor1:pCube13
+    2300064: Burgtor1:pCube14
+    2300066: Burgtor1:pCube15
+    2300068: Burgtor1:pCube16
+    2300070: Burgtor1:pCube17
+    2300072: Burgtor1:pCube18
+    2300074: Burgtor1:pCube19
+    2300076: Burgtor1:pCube20
+    2300078: Burgtor1:pCube21
+    2300080: Burgtor1:pCube62
+    2300082: Burgtor1:pCube62 1
+    2300084: Burgtor1:pCube62 2
+    2300086: Burgtor1:pCube62 3
+    2300088: Burgtor1:pCube62 4
+    2300090: Burgtor1:pCube62 5
+    2300092: Burgtor1:pCube62 6
+    2300094: Burgtor1:pCube67
+    2300096: Burgtor1:pCube67 1
+    2300098: Burgtor1:pCube67 2
+    2300100: Burgtor1:pCube67 3
+    2300102: Burgtor1:pCube67 4
+    2300104: Burgtor1:pCube67 5
+    2300106: Burgtor1:pCube67 6
+    2300108: Burgtor1:pCube69
+    2300110: Burgtor1:pCube69 1
+    2300112: Burgtor1:pCube69 2
+    2300114: Burgtor1:pCube69 3
+    2300116: Burgtor1:pCube69 4
+    2300118: Burgtor1:pCube69 5
+    2300120: Burgtor1:pCube69 6
+    2300122: Burgtor1:pCube70
+    2300124: Burgtor1:pCube70 1
+    2300126: Burgtor1:pCube70 2
+    2300128: Burgtor1:pCube70 3
+    2300130: Burgtor1:pCube70 4
+    2300132: Burgtor1:pCube70 5
+    2300134: Burgtor1:pCube70 6
+    2300136: Burgtor1:pCube71
+    2300138: Burgtor1:pCube71 1
+    2300140: Burgtor1:pCube71 2
+    2300142: Burgtor1:pCube71 3
+    2300144: Burgtor1:pCube71 4
+    2300146: Burgtor1:pCube71 5
+    2300148: Burgtor1:pCube71 6
+    2300150: Burgtor1:pCube72
+    2300152: Burgtor1:pCube72 1
+    2300154: Burgtor1:pCube72 2
+    2300156: Burgtor1:pCube72 3
+    2300158: Burgtor1:pCube72 4
+    2300160: Burgtor1:pCube72 5
+    2300162: Burgtor1:pCube72 6
+    2300164: Burgtor1:pCube75
+    2300166: Burgtor1:pCube75 1
+    2300168: Burgtor1:pCube75 2
+    2300170: Burgtor1:pCube75 3
+    2300172: Burgtor1:pCube75 4
+    2300174: Burgtor1:pCube75 5
+    2300176: Burgtor1:pCube75 6
+    2300178: Burgtor1:pCube76
+    2300180: Burgtor1:pCube76 1
+    2300182: Burgtor1:pCube76 2
+    2300184: Burgtor1:pCube76 3
+    2300186: Burgtor1:pCube76 4
+    2300188: Burgtor1:pCube76 5
+    2300190: Burgtor1:pCube76 6
+    2300192: Burgtor1:pCube77
+    2300194: Burgtor1:pCube77 1
+    2300196: Burgtor1:pCube77 2
+    2300198: Burgtor1:pCube77 3
+    2300200: Burgtor1:pCube77 4
+    2300202: Burgtor1:pCube77 5
+    2300204: Burgtor1:pCube77 6
+    2300206: Burgtor1:pCube78
+    2300208: Burgtor1:pCube78 1
+    2300210: Burgtor1:pCube78 2
+    2300212: Burgtor1:pCube78 3
+    2300214: Burgtor1:pCube78 4
+    2300216: Burgtor1:pCube78 5
+    2300218: Burgtor1:pCube78 6
+    2300220: Burgtor1:pCube8
+    2300222: Burgtor1:pCube81
+    2300224: Burgtor1:pCube81 1
+    2300226: Burgtor1:pCube81 2
+    2300228: Burgtor1:pCube81 3
+    2300230: Burgtor1:pCube81 4
+    2300232: Burgtor1:pCube81 5
+    2300234: Burgtor1:pCube81 6
+    2300236: Burgtor1:pCube82
+    2300238: Burgtor1:pCube82 1
+    2300240: Burgtor1:pCube82 2
+    2300242: Burgtor1:pCube82 3
+    2300244: Burgtor1:pCube82 4
+    2300246: Burgtor1:pCube82 5
+    2300248: Burgtor1:pCube82 6
+    2300250: Burgtor1:Rechts1
+    2300252: Burgtor1:Turm1:Burgtor:pCube67
+    2300254: Burgtor1:Turm1:Burgtor:pCube69
+    2300256: Burgtor1:Turm1:Burgtor:pCube70
+    2300258: Burgtor1:Turm1:Burgtor:pCube71
+    2300260: Burgtor1:Turm1:Burgtor:pCube72
+    2300262: Burgtor1:Turm1:Burgtor:pCube75
+    2300264: Burgtor1:Turm1:Burgtor:pCube76
+    2300266: Burgtor1:Turm1:Burgtor:pCube77
+    2300268: Burgtor1:Turm1:Burgtor:pCube78
+    2300270: Burgtor1:Turm1:Burgtor:pCube81
+    2300272: Burgtor1:Turm1:Burgtor:pCube82
+    2300274: Burgtor1:Turm1:Burgtor:Truhe:pCube62
+    2300276: Dach_Haus:Dach
+    2300278: Dach_Haus:Haus
+    2300280: Dach_Haus:pCube26
+    2300282: Dach_Haus:pCube27
+    2300284: Fachwerk1:Dach 1
+    2300286: Fachwerk1:Dach1
+    2300288: Fachwerk1:Kamin
+    2300290: Fachwerk1:Kleines_Dach1
+    2300292: Fachwerk1:Kleines_Dach2
+    2300294: Fachwerk1:pCube1
+    2300296: Fachwerk1:pCube1 1
+    2300298: Fachwerk1:pCube2
+    2300300: Fachwerk1:pCube2 1
+    2300302: Fachwerk1:pCube3
+    2300304: Fachwerk1:pCube3 1
+    2300306: Fachwerk1:pCube4
+    2300308: Fachwerk1:pCube4 1
+    2300310: Fachwerk1:pCube6
+    2300312: Fachwerk1:pCube6 1
+    2300314: Fachwerk1:polySurface1
+    2300316: Fachwerk1:polySurface1 1
+    2300318: Fachwerk1:polySurface10
+    2300320: Fachwerk1:polySurface6
+    2300322: Fachwerk1:polySurface9
+    2300324: Fackel7:pCylinder1
+    2300326: Fackel7:pCylinder2
+    2300328: Fackel7:pCylinder3
+    2300330: Fackel7:pPipe1
+    2300332: Fackel:nurbsToPoly2
+    2300334: Fackel:pCube1
+    2300336: Fackel:pCube2
+    2300338: Feuerwehrhaus:Dach
+    2300340: Feuerwehrhaus:Haus
+    2300342: Feuerwehrhaus:Kamin
+    2300344: Feuerwehrhaus:Kreuz1
+    2300346: Feuerwehrhaus:pCube34
+    2300348: Feuerwehrhaus:pCube38
+    2300350: Feuerwehrhaus:pCube41
+    2300352: Feuerwehrhaus:pCube42
+    2300354: Feuerwehrhaus:pCube43
+    2300356: Feuerwehrhaus:pCube44
+    2300358: Feuerwehrhaus:pPlane1
+    2300360: Feuerwehrhaus:pPlane2
+    2300362: Geisterturm2:Dachstube
+    2300364: Geisterturm2:Dachstuben_Fenster
+    2300366: Geisterturm2:Dachstuben_Fenster1
+    2300368: Geisterturm2:Fachwerk
+    2300370: Geisterturm2:Kamin_Vorne
+    2300372: Geisterturm2:Kamin_Vorne1
+    2300374: Geisterturm2:Passage:Dach1
+    2300376: Geisterturm2:Passage:Dach2
+    2300378: Geisterturm2:Passage:Fenster
+    2300380: Geisterturm2:Passage:Fenster1
+    2300382: Geisterturm2:polySurface11
+    2300384: Geisterturm2:polySurface114
+    2300386: Geisterturm2:polySurface115
+    2300388: Geisterturm2:polySurface12
+    2300390: Geisterturm2:polySurface13
+    2300392: Geisterturm2:polySurface14
+    2300394: Geisterturm2:polySurface9
+    2300396: Geisterturm2:Ring
+    2300398: Geisterturm2:Ring1
+    2300400: Geisterturm2:Spitze
+    2300402: Geisterturm2:Turm 1
+    2300404: Geisterturm2:Turmfenster
+    2300406: Geisterturm2:Weisses
+    2300408: Grosses_Fachwerk:Dach
+    2300410: Grosses_Fachwerk:Dach 1
+    2300412: Grosses_Fachwerk:Dach1
+    2300414: Grosses_Fachwerk:Fachwerk1
+    2300416: Grosses_Fachwerk:Femster
+    2300418: Grosses_Fachwerk:Femster1
+    2300420: Grosses_Fachwerk:Holz1
+    2300422: Grosses_Fachwerk:Holz2
+    2300424: Grosses_Fachwerk:Holz5
+    2300426: Grosses_Fachwerk:Kreuz
+    2300428: Grosses_Fachwerk:polySurface1
+    2300430: Grosses_Fachwerk:polySurface2
+    2300432: Grosses_Fachwerk:polySurface3
+    2300434: Haeuserreihe:Dach
+    2300436: Haeuserreihe:Innenwand1
+    2300438: Haeuserreihe:Mittlere_Reihe
+    2300440: Haeuserreihe:Untere_Reihe
+    2300442: Hinter_Turm:Dach
+    2300444: Hinter_Turm:Dach1
+    2300446: Hinter_Turm:Femster
+    2300448: Hinter_Turm:Turm
+    2300450: Hinterturm:Dach
+    2300452: Hinterturm:Dach1
+    2300454: Hinterturm:Femster
+    2300456: Hinterturm:Turm
+    2300458: Kirchturm:Dach
+    2300460: Kirchturm:Dach 1
+    2300462: Kirchturm:Dach1
+    2300464: Kirchturm:eins
+    2300466: Kirchturm:eins 1
+    2300468: Kirchturm:eins 2
+    2300470: Kirchturm:eins 3
+    2300472: Kirchturm:Elf 4
+    2300474: Kirchturm:Elf 5
+    2300476: Kirchturm:Elf 6
+    2300478: Kirchturm:Elf 7
+    2300480: Kirchturm:Hinten
+    2300482: Kirchturm:Kreuz
+    2300484: Kirchturm:Minuten_z
+    2300486: Kirchturm:Minuten_z 1
+    2300488: Kirchturm:Minuten_z 2
+    2300490: Kirchturm:Minuten_z 3
+    2300492: Kirchturm:pCube10
+    2300494: Kirchturm:pCube10 1
+    2300496: Kirchturm:pCube10 2
+    2300498: Kirchturm:pCube10 3
+    2300500: Kirchturm:pCube11
+    2300502: Kirchturm:pCube11 1
+    2300504: Kirchturm:pCube11 2
+    2300506: Kirchturm:pCube11 3
+    2300508: Kirchturm:pCube12
+    2300510: Kirchturm:pCube12 1
+    2300512: Kirchturm:pCube12 2
+    2300514: Kirchturm:pCube12 3
+    2300516: Kirchturm:pCube13
+    2300518: Kirchturm:pCube13 1
+    2300520: Kirchturm:pCube13 2
+    2300522: Kirchturm:pCube13 3
+    2300524: Kirchturm:pCube24
+    2300526: Kirchturm:pCube24 1
+    2300528: Kirchturm:pCube24 2
+    2300530: Kirchturm:pCube24 3
+    2300532: Kirchturm:pCube25
+    2300534: Kirchturm:pCube25 1
+    2300536: Kirchturm:pCube25 2
+    2300538: Kirchturm:pCube25 3
+    2300540: Kirchturm:pCube26
+    2300542: Kirchturm:pCube26 1
+    2300544: Kirchturm:pCube26 2
+    2300546: Kirchturm:pCube26 3
+    2300548: Kirchturm:pCube27
+    2300550: Kirchturm:pCube27 1
+    2300552: Kirchturm:pCube27 2
+    2300554: Kirchturm:pCube27 3
+    2300556: Kirchturm:pCube28
+    2300558: Kirchturm:pCube28 1
+    2300560: Kirchturm:pCube28 2
+    2300562: Kirchturm:pCube28 3
+    2300564: Kirchturm:pCube29
+    2300566: Kirchturm:pCube29 1
+    2300568: Kirchturm:pCube29 2
+    2300570: Kirchturm:pCube29 3
+    2300572: Kirchturm:pCube31
+    2300574: Kirchturm:pCube31 1
+    2300576: Kirchturm:pCube31 2
+    2300578: Kirchturm:pCube31 3
+    2300580: Kirchturm:pCube32
+    2300582: Kirchturm:pCube32 1
+    2300584: Kirchturm:pCube32 2
+    2300586: Kirchturm:pCube32 3
+    2300588: Kirchturm:pCube33
+    2300590: Kirchturm:pCube33 1
+    2300592: Kirchturm:pCube33 2
+    2300594: Kirchturm:pCube33 3
+    2300596: Kirchturm:pCube34
+    2300598: Kirchturm:pCube34 1
+    2300600: Kirchturm:pCube34 2
+    2300602: Kirchturm:pCube34 3
+    2300604: Kirchturm:pCube35
+    2300606: Kirchturm:pCube35 1
+    2300608: Kirchturm:pCube35 2
+    2300610: Kirchturm:pCube35 3
+    2300612: Kirchturm:pCube36
+    2300614: Kirchturm:pCube36 1
+    2300616: Kirchturm:pCube36 2
+    2300618: Kirchturm:pCube36 3
+    2300620: Kirchturm:pCube37
+    2300622: Kirchturm:pCube37 1
+    2300624: Kirchturm:pCube37 2
+    2300626: Kirchturm:pCube37 3
+    2300628: Kirchturm:pCube38
+    2300630: Kirchturm:pCube38 1
+    2300632: Kirchturm:pCube38 2
+    2300634: Kirchturm:pCube38 3
+    2300636: Kirchturm:pCube39
+    2300638: Kirchturm:pCube39 1
+    2300640: Kirchturm:pCube39 2
+    2300642: Kirchturm:pCube39 3
+    2300644: Kirchturm:pCube40
+    2300646: Kirchturm:pCube40 1
+    2300648: Kirchturm:pCube40 2
+    2300650: Kirchturm:pCube40 3
+    2300652: Kirchturm:pCube41
+    2300654: Kirchturm:pCube41 1
+    2300656: Kirchturm:pCube41 2
+    2300658: Kirchturm:pCube41 3
+    2300660: Kirchturm:pCube42
+    2300662: Kirchturm:pCube42 1
+    2300664: Kirchturm:pCube42 2
+    2300666: Kirchturm:pCube42 3
+    2300668: Kirchturm:pCube5
+    2300670: Kirchturm:pCube5 1
+    2300672: Kirchturm:pCube5 2
+    2300674: Kirchturm:pCube5 3
+    2300676: Kirchturm:pCube6
+    2300678: Kirchturm:pCube6 1
+    2300680: Kirchturm:pCube6 2
+    2300682: Kirchturm:pCube6 3
+    2300684: Kirchturm:pCube7
+    2300686: Kirchturm:pCube7 1
+    2300688: Kirchturm:pCube7 2
+    2300690: Kirchturm:pCube7 3
+    2300692: Kirchturm:pCube9
+    2300694: Kirchturm:pCube9 1
+    2300696: Kirchturm:pCube9 2
+    2300698: Kirchturm:pCube9 3
+    2300700: Kirchturm:pSphere1
+    2300702: Kirchturm:pSphere1 1
+    2300704: Kirchturm:pSphere1 2
+    2300706: Kirchturm:pSphere1 3
+    2300708: Kirchturm:Sekunden_Z
+    2300710: Kirchturm:Sekunden_Z 1
+    2300712: Kirchturm:Sekunden_Z 2
+    2300714: Kirchturm:Sekunden_Z 3
+    2300716: Kirchturm:Stunden_Z
+    2300718: Kirchturm:Stunden_Z 1
+    2300720: Kirchturm:Stunden_Z 2
+    2300722: Kirchturm:Stunden_Z 3
+    2300724: Kirchturm:Turm1
+    2300726: Kirchturm:Uhr
+    2300728: Kirchturm:Uhr 1
+    2300730: Kirchturm:Uhr 2
+    2300732: Kirchturm:Uhr 3
+    2300734: Kirchturm:Unterteilugn_Mitte
+    2300736: Kirchturm:Unterteilugn_Mitte 1
+    2300738: Kirchturm:Unterteilugn_Mitte 2
+    2300740: Kirchturm:Unterteilugn_Mitte 3
+    2300742: Kirchturm:Vorhaus 1
+    2300744: Kirchturm:Vorne
+    2300746: Kirchturm:Zehn
+    2300748: Kirchturm:Zehn 1
+    2300750: Kirchturm:Zehn 2
+    2300752: Kirchturm:Zehn 3
+    2300754: Mauerturm:Dach1
+    2300756: Mauerturm:Dach1 1
+    2300758: Mauerturm:Dach1 10
+    2300760: Mauerturm:Dach1 2
+    2300762: Mauerturm:Dach1 3
+    2300764: Mauerturm:Dach1 4
+    2300766: Mauerturm:Dach1 5
+    2300768: Mauerturm:Dach1 6
+    2300770: Mauerturm:Dach1 7
+    2300772: Mauerturm:Dach1 8
+    2300774: Mauerturm:Dach1 9
+    2300776: Mauerturm:Dach2
+    2300778: Mauerturm:Dach2 1
+    2300780: Mauerturm:Dach2 2
+    2300782: Mauerturm:Dach2 3
+    2300784: Mauerturm:Dach2 4
+    2300786: Mauerturm:Dach2 5
+    2300788: Mauerturm:Dach2 6
+    2300790: Mauerturm:Dach2 7
+    2300792: Mauerturm:Dach2 8
+    2300794: Mauerturm:Dach2 9
+    2300796: Mauerturm:Turm 11
+    2300798: Mauerturm:Turm 12
+    2300800: Mauerturm:Turm 13
+    2300802: Mauerturm:Turm 14
+    2300804: Mauerturm:Turm 15
+    2300806: Mauerturm:Turm 16
+    2300808: Mauerturm:Turm 17
+    2300810: Mauerturm:Turm 18
+    2300812: Mauerturm:Turm 19
+    2300814: Mauerturm:Turm 20
+    2300816: Mauerturm:Turm 21
+    2300818: Mauerturm:Turm4
+    2300820: nurbsToPoly2
+    2300822: nurbsToPoly2 1
+    2300824: nurbsToPoly2 2
+    2300826: nurbsToPoly2 3
+    2300828: nurbsToPoly2 4
+    2300830: Passage:Burgtor:Turm1:Burgtor:pCube50
+    2300832: Passage:Burgtor:Turm1:Burgtor:pCube51
+    2300834: Passage:Burgtor:Turm1:Burgtor:pCube52
+    2300836: Passage:Burgtor:Turm1:Burgtor:pCube53
+    2300838: Passage:Burgtor:Turm1:Burgtor:pCube54
+    2300840: Passage:Burgtor:Turm1:Burgtor:pCube55
+    2300842: Passage:Burgtor:Turm1:Burgtor:pCube56
+    2300844: Passage:Burgtor:Turm1:Burgtor:pCube57
+    2300846: Passage:Burgtor:Turm1:Burgtor:pCube58
+    2300848: Passage:Burgtor:Turm1:Burgtor:pCube59
+    2300850: Passage:Burgtor:Turm1:Burgtor:pCube63
+    2300852: Passage:Burgtor:Turm1:Burgtor:pCube64
+    2300854: Passage:Burgtor:Turm1:Burgtor:pCube65
+    2300856: Passage:Burgtor:Turm1:Burgtor:pCube66
+    2300858: Passage:Dach
+    2300860: Passage:Dach1
+    2300862: Passage:Dach_im_Dach
+    2300864: Passage:Fenster
+    2300866: Passage:Gebaeude
+    2300868: Passage:Innenraum1
+    2300870: Passage:Kamin_Seite1
+    2300872: Passage:Kamin_Seite2
+    2300874: Passage:Kamin_Seite3
+    2300876: pCube1
+    2300878: pCube1 1
+    2300880: pCube1 2
+    2300882: pCube1 3
+    2300884: pCube1 4
+    2300886: pCube2
+    2300888: pCube2 1
+    2300890: pCube2 2
+    2300892: pCube2 3
+    2300894: pCube2 4
+    2300896: pCylinder1
+    2300898: pCylinder1 1
+    2300900: pCylinder1 10
+    2300902: pCylinder1 11
+    2300904: pCylinder1 12
+    2300906: pCylinder1 13
+    2300908: pCylinder1 14
+    2300910: pCylinder1 15
+    2300912: pCylinder1 16
+    2300914: pCylinder1 17
+    2300916: pCylinder1 18
+    2300918: pCylinder1 19
+    2300920: pCylinder1 2
+    2300922: pCylinder1 20
+    2300924: pCylinder1 21
+    2300926: pCylinder1 22
+    2300928: pCylinder1 23
+    2300930: pCylinder1 24
+    2300932: pCylinder1 25
+    2300934: pCylinder1 26
+    2300936: pCylinder1 3
+    2300938: pCylinder1 4
+    2300940: pCylinder1 5
+    2300942: pCylinder1 6
+    2300944: pCylinder1 7
+    2300946: pCylinder1 8
+    2300948: pCylinder1 9
+    2300950: pCylinder2
+    2300952: pCylinder2 1
+    2300954: pCylinder2 10
+    2300956: pCylinder2 11
+    2300958: pCylinder2 12
+    2300960: pCylinder2 13
+    2300962: pCylinder2 14
+    2300964: pCylinder2 15
+    2300966: pCylinder2 16
+    2300968: pCylinder2 17
+    2300970: pCylinder2 18
+    2300972: pCylinder2 19
+    2300974: pCylinder2 2
+    2300976: pCylinder2 20
+    2300978: pCylinder2 21
+    2300980: pCylinder2 22
+    2300982: pCylinder2 23
+    2300984: pCylinder2 24
+    2300986: pCylinder2 25
+    2300988: pCylinder2 26
+    2300990: pCylinder2 3
+    2300992: pCylinder2 4
+    2300994: pCylinder2 5
+    2300996: pCylinder2 6
+    2300998: pCylinder2 7
+    2301000: pCylinder2 8
+    2301002: pCylinder2 9
+    2301004: pCylinder3
+    2301006: pCylinder3 1
+    2301008: pCylinder3 10
+    2301010: pCylinder3 11
+    2301012: pCylinder3 12
+    2301014: pCylinder3 13
+    2301016: pCylinder3 14
+    2301018: pCylinder3 15
+    2301020: pCylinder3 16
+    2301022: pCylinder3 17
+    2301024: pCylinder3 18
+    2301026: pCylinder3 19
+    2301028: pCylinder3 2
+    2301030: pCylinder3 20
+    2301032: pCylinder3 21
+    2301034: pCylinder3 22
+    2301036: pCylinder3 23
+    2301038: pCylinder3 24
+    2301040: pCylinder3 25
+    2301042: pCylinder3 26
+    2301044: pCylinder3 3
+    2301046: pCylinder3 4
+    2301048: pCylinder3 5
+    2301050: pCylinder3 6
+    2301052: pCylinder3 7
+    2301054: pCylinder3 8
+    2301056: pCylinder3 9
+    2301058: pPipe1
+    2301060: pPipe1 1
+    2301062: pPipe1 10
+    2301064: pPipe1 11
+    2301066: pPipe1 12
+    2301068: pPipe1 13
+    2301070: pPipe1 14
+    2301072: pPipe1 15
+    2301074: pPipe1 16
+    2301076: pPipe1 17
+    2301078: pPipe1 18
+    2301080: pPipe1 19
+    2301082: pPipe1 2
+    2301084: pPipe1 20
+    2301086: pPipe1 21
+    2301088: pPipe1 22
+    2301090: pPipe1 23
+    2301092: pPipe1 24
+    2301094: pPipe1 25
+    2301096: pPipe1 26
+    2301098: pPipe1 3
+    2301100: pPipe1 4
+    2301102: pPipe1 5
+    2301104: pPipe1 6
+    2301106: pPipe1 7
+    2301108: pPipe1 8
+    2301110: pPipe1 9
+    2301112: pPlane1
+    2301114: pPlane2
+    2301116: pPlane3
+    2301118: pPlane4
+    2301120: Zwischenhaus:Dach 1
+    2301122: Zwischenhaus:Etage1
+    2301124: Zwischenhaus:Fachwerk
+    2301126: Zwischenhaus:Holz
+    2301128: Zwischenhaus:Holz3
+    2301130: Zwischenhaus:Holz4
+    2301132: Zwischenhaus:Holz5
+    2301134: Zwischenhaus:Holz6
+    2301136: Zwischenhaus:Holz7
+    2301138: Zwischenhaus:Innenraum
+    2301140: Zwischenhaus:Kamin_Seite3
+    2301142: Zwischenhaus:Kamin_Seite4
+    2301144: Zwischenhaus:Obere_Etage
+    2301146: Zwischenhaus:Passage:Kamin_Seite3
+    3300000: Brunnen:Brunnen 1
+    3300002: Brunnen:Dach
+    3300004: Brunnen:pCylinder1
+    3300006: Brunnen:pCylinder2
+    3300008: Brunnen:pCylinder3
+    3300010: Brunnen:Seil
+    3300012: Brunnen:Seite_1
+    3300014: Brunnen:Seite_2
+    3300016: Burgmauer1:pCube1
+    3300018: Burgmauer1:pCube29
+    3300020: Burgmauer1:pCube30
+    3300022: Burgmauer1:pCube31
+    3300024: Burgmauer1:pCube33
+    3300026: Burgmauer1:pCube34
+    3300028: Burgmauer1:pCube35
+    3300030: Burgmauer1:pCube36
+    3300032: Burgmauer1:pCube37
+    3300034: Burgmauer1:pCube38
+    3300036: Burgmauer1:pCube39
+    3300038: Burgmauer1:pCube40
+    3300040: Burgmauer1:pCube41
+    3300042: Burgmauer1:pCube44
+    3300044: Burgmauer1:pCube46
+    3300046: Burgtor1:Burgtor_2:Burgtor
+    3300048: Burgtor1:Burgtor_2:Links
+    3300050: Burgtor1:Burgtor_2:Rechts1
+    3300052: Burgtor1:Links
+    3300054: Burgtor1:pCube1
+    3300056: Burgtor1:pCube10
+    3300058: Burgtor1:pCube11
+    3300060: Burgtor1:pCube12
+    3300062: Burgtor1:pCube13
+    3300064: Burgtor1:pCube14
+    3300066: Burgtor1:pCube15
+    3300068: Burgtor1:pCube16
+    3300070: Burgtor1:pCube17
+    3300072: Burgtor1:pCube18
+    3300074: Burgtor1:pCube19
+    3300076: Burgtor1:pCube20
+    3300078: Burgtor1:pCube21
+    3300080: Burgtor1:pCube62
+    3300082: Burgtor1:pCube62 1
+    3300084: Burgtor1:pCube62 2
+    3300086: Burgtor1:pCube62 3
+    3300088: Burgtor1:pCube62 4
+    3300090: Burgtor1:pCube62 5
+    3300092: Burgtor1:pCube62 6
+    3300094: Burgtor1:pCube67
+    3300096: Burgtor1:pCube67 1
+    3300098: Burgtor1:pCube67 2
+    3300100: Burgtor1:pCube67 3
+    3300102: Burgtor1:pCube67 4
+    3300104: Burgtor1:pCube67 5
+    3300106: Burgtor1:pCube67 6
+    3300108: Burgtor1:pCube69
+    3300110: Burgtor1:pCube69 1
+    3300112: Burgtor1:pCube69 2
+    3300114: Burgtor1:pCube69 3
+    3300116: Burgtor1:pCube69 4
+    3300118: Burgtor1:pCube69 5
+    3300120: Burgtor1:pCube69 6
+    3300122: Burgtor1:pCube70
+    3300124: Burgtor1:pCube70 1
+    3300126: Burgtor1:pCube70 2
+    3300128: Burgtor1:pCube70 3
+    3300130: Burgtor1:pCube70 4
+    3300132: Burgtor1:pCube70 5
+    3300134: Burgtor1:pCube70 6
+    3300136: Burgtor1:pCube71
+    3300138: Burgtor1:pCube71 1
+    3300140: Burgtor1:pCube71 2
+    3300142: Burgtor1:pCube71 3
+    3300144: Burgtor1:pCube71 4
+    3300146: Burgtor1:pCube71 5
+    3300148: Burgtor1:pCube71 6
+    3300150: Burgtor1:pCube72
+    3300152: Burgtor1:pCube72 1
+    3300154: Burgtor1:pCube72 2
+    3300156: Burgtor1:pCube72 3
+    3300158: Burgtor1:pCube72 4
+    3300160: Burgtor1:pCube72 5
+    3300162: Burgtor1:pCube72 6
+    3300164: Burgtor1:pCube75
+    3300166: Burgtor1:pCube75 1
+    3300168: Burgtor1:pCube75 2
+    3300170: Burgtor1:pCube75 3
+    3300172: Burgtor1:pCube75 4
+    3300174: Burgtor1:pCube75 5
+    3300176: Burgtor1:pCube75 6
+    3300178: Burgtor1:pCube76
+    3300180: Burgtor1:pCube76 1
+    3300182: Burgtor1:pCube76 2
+    3300184: Burgtor1:pCube76 3
+    3300186: Burgtor1:pCube76 4
+    3300188: Burgtor1:pCube76 5
+    3300190: Burgtor1:pCube76 6
+    3300192: Burgtor1:pCube77
+    3300194: Burgtor1:pCube77 1
+    3300196: Burgtor1:pCube77 2
+    3300198: Burgtor1:pCube77 3
+    3300200: Burgtor1:pCube77 4
+    3300202: Burgtor1:pCube77 5
+    3300204: Burgtor1:pCube77 6
+    3300206: Burgtor1:pCube78
+    3300208: Burgtor1:pCube78 1
+    3300210: Burgtor1:pCube78 2
+    3300212: Burgtor1:pCube78 3
+    3300214: Burgtor1:pCube78 4
+    3300216: Burgtor1:pCube78 5
+    3300218: Burgtor1:pCube78 6
+    3300220: Burgtor1:pCube8
+    3300222: Burgtor1:pCube81
+    3300224: Burgtor1:pCube81 1
+    3300226: Burgtor1:pCube81 2
+    3300228: Burgtor1:pCube81 3
+    3300230: Burgtor1:pCube81 4
+    3300232: Burgtor1:pCube81 5
+    3300234: Burgtor1:pCube81 6
+    3300236: Burgtor1:pCube82
+    3300238: Burgtor1:pCube82 1
+    3300240: Burgtor1:pCube82 2
+    3300242: Burgtor1:pCube82 3
+    3300244: Burgtor1:pCube82 4
+    3300246: Burgtor1:pCube82 5
+    3300248: Burgtor1:pCube82 6
+    3300250: Burgtor1:Rechts1
+    3300252: Burgtor1:Turm1:Burgtor:pCube67
+    3300254: Burgtor1:Turm1:Burgtor:pCube69
+    3300256: Burgtor1:Turm1:Burgtor:pCube70
+    3300258: Burgtor1:Turm1:Burgtor:pCube71
+    3300260: Burgtor1:Turm1:Burgtor:pCube72
+    3300262: Burgtor1:Turm1:Burgtor:pCube75
+    3300264: Burgtor1:Turm1:Burgtor:pCube76
+    3300266: Burgtor1:Turm1:Burgtor:pCube77
+    3300268: Burgtor1:Turm1:Burgtor:pCube78
+    3300270: Burgtor1:Turm1:Burgtor:pCube81
+    3300272: Burgtor1:Turm1:Burgtor:pCube82
+    3300274: Burgtor1:Turm1:Burgtor:Truhe:pCube62
+    3300276: Dach_Haus:Dach
+    3300278: Dach_Haus:Haus
+    3300280: Dach_Haus:pCube26
+    3300282: Dach_Haus:pCube27
+    3300284: Fachwerk1:Dach 1
+    3300286: Fachwerk1:Dach1
+    3300288: Fachwerk1:Kamin
+    3300290: Fachwerk1:Kleines_Dach1
+    3300292: Fachwerk1:Kleines_Dach2
+    3300294: Fachwerk1:pCube1
+    3300296: Fachwerk1:pCube1 1
+    3300298: Fachwerk1:pCube2
+    3300300: Fachwerk1:pCube2 1
+    3300302: Fachwerk1:pCube3
+    3300304: Fachwerk1:pCube3 1
+    3300306: Fachwerk1:pCube4
+    3300308: Fachwerk1:pCube4 1
+    3300310: Fachwerk1:pCube6
+    3300312: Fachwerk1:pCube6 1
+    3300314: Fachwerk1:polySurface1
+    3300316: Fachwerk1:polySurface1 1
+    3300318: Fachwerk1:polySurface10
+    3300320: Fachwerk1:polySurface6
+    3300322: Fachwerk1:polySurface9
+    3300324: Fackel7:pCylinder1
+    3300326: Fackel7:pCylinder2
+    3300328: Fackel7:pCylinder3
+    3300330: Fackel7:pPipe1
+    3300332: Fackel:nurbsToPoly2
+    3300334: Fackel:pCube1
+    3300336: Fackel:pCube2
+    3300338: Feuerwehrhaus:Dach
+    3300340: Feuerwehrhaus:Haus
+    3300342: Feuerwehrhaus:Kamin
+    3300344: Feuerwehrhaus:Kreuz1
+    3300346: Feuerwehrhaus:pCube34
+    3300348: Feuerwehrhaus:pCube38
+    3300350: Feuerwehrhaus:pCube41
+    3300352: Feuerwehrhaus:pCube42
+    3300354: Feuerwehrhaus:pCube43
+    3300356: Feuerwehrhaus:pCube44
+    3300358: Feuerwehrhaus:pPlane1
+    3300360: Feuerwehrhaus:pPlane2
+    3300362: Geisterturm2:Dachstube
+    3300364: Geisterturm2:Dachstuben_Fenster
+    3300366: Geisterturm2:Dachstuben_Fenster1
+    3300368: Geisterturm2:Fachwerk
+    3300370: Geisterturm2:Kamin_Vorne
+    3300372: Geisterturm2:Kamin_Vorne1
+    3300374: Geisterturm2:Passage:Dach1
+    3300376: Geisterturm2:Passage:Dach2
+    3300378: Geisterturm2:Passage:Fenster
+    3300380: Geisterturm2:Passage:Fenster1
+    3300382: Geisterturm2:polySurface11
+    3300384: Geisterturm2:polySurface114
+    3300386: Geisterturm2:polySurface115
+    3300388: Geisterturm2:polySurface12
+    3300390: Geisterturm2:polySurface13
+    3300392: Geisterturm2:polySurface14
+    3300394: Geisterturm2:polySurface9
+    3300396: Geisterturm2:Ring
+    3300398: Geisterturm2:Ring1
+    3300400: Geisterturm2:Spitze
+    3300402: Geisterturm2:Turm 1
+    3300404: Geisterturm2:Turmfenster
+    3300406: Geisterturm2:Weisses
+    3300408: Grosses_Fachwerk:Dach
+    3300410: Grosses_Fachwerk:Dach 1
+    3300412: Grosses_Fachwerk:Dach1
+    3300414: Grosses_Fachwerk:Fachwerk1
+    3300416: Grosses_Fachwerk:Femster
+    3300418: Grosses_Fachwerk:Femster1
+    3300420: Grosses_Fachwerk:Holz1
+    3300422: Grosses_Fachwerk:Holz2
+    3300424: Grosses_Fachwerk:Holz5
+    3300426: Grosses_Fachwerk:Kreuz
+    3300428: Grosses_Fachwerk:polySurface1
+    3300430: Grosses_Fachwerk:polySurface2
+    3300432: Grosses_Fachwerk:polySurface3
+    3300434: Haeuserreihe:Dach
+    3300436: Haeuserreihe:Innenwand1
+    3300438: Haeuserreihe:Mittlere_Reihe
+    3300440: Haeuserreihe:Untere_Reihe
+    3300442: Hinter_Turm:Dach
+    3300444: Hinter_Turm:Dach1
+    3300446: Hinter_Turm:Femster
+    3300448: Hinter_Turm:Turm
+    3300450: Hinterturm:Dach
+    3300452: Hinterturm:Dach1
+    3300454: Hinterturm:Femster
+    3300456: Hinterturm:Turm
+    3300458: Kirchturm:Dach
+    3300460: Kirchturm:Dach 1
+    3300462: Kirchturm:Dach1
+    3300464: Kirchturm:eins
+    3300466: Kirchturm:eins 1
+    3300468: Kirchturm:eins 2
+    3300470: Kirchturm:eins 3
+    3300472: Kirchturm:Elf 4
+    3300474: Kirchturm:Elf 5
+    3300476: Kirchturm:Elf 6
+    3300478: Kirchturm:Elf 7
+    3300480: Kirchturm:Hinten
+    3300482: Kirchturm:Kreuz
+    3300484: Kirchturm:Minuten_z
+    3300486: Kirchturm:Minuten_z 1
+    3300488: Kirchturm:Minuten_z 2
+    3300490: Kirchturm:Minuten_z 3
+    3300492: Kirchturm:pCube10
+    3300494: Kirchturm:pCube10 1
+    3300496: Kirchturm:pCube10 2
+    3300498: Kirchturm:pCube10 3
+    3300500: Kirchturm:pCube11
+    3300502: Kirchturm:pCube11 1
+    3300504: Kirchturm:pCube11 2
+    3300506: Kirchturm:pCube11 3
+    3300508: Kirchturm:pCube12
+    3300510: Kirchturm:pCube12 1
+    3300512: Kirchturm:pCube12 2
+    3300514: Kirchturm:pCube12 3
+    3300516: Kirchturm:pCube13
+    3300518: Kirchturm:pCube13 1
+    3300520: Kirchturm:pCube13 2
+    3300522: Kirchturm:pCube13 3
+    3300524: Kirchturm:pCube24
+    3300526: Kirchturm:pCube24 1
+    3300528: Kirchturm:pCube24 2
+    3300530: Kirchturm:pCube24 3
+    3300532: Kirchturm:pCube25
+    3300534: Kirchturm:pCube25 1
+    3300536: Kirchturm:pCube25 2
+    3300538: Kirchturm:pCube25 3
+    3300540: Kirchturm:pCube26
+    3300542: Kirchturm:pCube26 1
+    3300544: Kirchturm:pCube26 2
+    3300546: Kirchturm:pCube26 3
+    3300548: Kirchturm:pCube27
+    3300550: Kirchturm:pCube27 1
+    3300552: Kirchturm:pCube27 2
+    3300554: Kirchturm:pCube27 3
+    3300556: Kirchturm:pCube28
+    3300558: Kirchturm:pCube28 1
+    3300560: Kirchturm:pCube28 2
+    3300562: Kirchturm:pCube28 3
+    3300564: Kirchturm:pCube29
+    3300566: Kirchturm:pCube29 1
+    3300568: Kirchturm:pCube29 2
+    3300570: Kirchturm:pCube29 3
+    3300572: Kirchturm:pCube31
+    3300574: Kirchturm:pCube31 1
+    3300576: Kirchturm:pCube31 2
+    3300578: Kirchturm:pCube31 3
+    3300580: Kirchturm:pCube32
+    3300582: Kirchturm:pCube32 1
+    3300584: Kirchturm:pCube32 2
+    3300586: Kirchturm:pCube32 3
+    3300588: Kirchturm:pCube33
+    3300590: Kirchturm:pCube33 1
+    3300592: Kirchturm:pCube33 2
+    3300594: Kirchturm:pCube33 3
+    3300596: Kirchturm:pCube34
+    3300598: Kirchturm:pCube34 1
+    3300600: Kirchturm:pCube34 2
+    3300602: Kirchturm:pCube34 3
+    3300604: Kirchturm:pCube35
+    3300606: Kirchturm:pCube35 1
+    3300608: Kirchturm:pCube35 2
+    3300610: Kirchturm:pCube35 3
+    3300612: Kirchturm:pCube36
+    3300614: Kirchturm:pCube36 1
+    3300616: Kirchturm:pCube36 2
+    3300618: Kirchturm:pCube36 3
+    3300620: Kirchturm:pCube37
+    3300622: Kirchturm:pCube37 1
+    3300624: Kirchturm:pCube37 2
+    3300626: Kirchturm:pCube37 3
+    3300628: Kirchturm:pCube38
+    3300630: Kirchturm:pCube38 1
+    3300632: Kirchturm:pCube38 2
+    3300634: Kirchturm:pCube38 3
+    3300636: Kirchturm:pCube39
+    3300638: Kirchturm:pCube39 1
+    3300640: Kirchturm:pCube39 2
+    3300642: Kirchturm:pCube39 3
+    3300644: Kirchturm:pCube40
+    3300646: Kirchturm:pCube40 1
+    3300648: Kirchturm:pCube40 2
+    3300650: Kirchturm:pCube40 3
+    3300652: Kirchturm:pCube41
+    3300654: Kirchturm:pCube41 1
+    3300656: Kirchturm:pCube41 2
+    3300658: Kirchturm:pCube41 3
+    3300660: Kirchturm:pCube42
+    3300662: Kirchturm:pCube42 1
+    3300664: Kirchturm:pCube42 2
+    3300666: Kirchturm:pCube42 3
+    3300668: Kirchturm:pCube5
+    3300670: Kirchturm:pCube5 1
+    3300672: Kirchturm:pCube5 2
+    3300674: Kirchturm:pCube5 3
+    3300676: Kirchturm:pCube6
+    3300678: Kirchturm:pCube6 1
+    3300680: Kirchturm:pCube6 2
+    3300682: Kirchturm:pCube6 3
+    3300684: Kirchturm:pCube7
+    3300686: Kirchturm:pCube7 1
+    3300688: Kirchturm:pCube7 2
+    3300690: Kirchturm:pCube7 3
+    3300692: Kirchturm:pCube9
+    3300694: Kirchturm:pCube9 1
+    3300696: Kirchturm:pCube9 2
+    3300698: Kirchturm:pCube9 3
+    3300700: Kirchturm:pSphere1
+    3300702: Kirchturm:pSphere1 1
+    3300704: Kirchturm:pSphere1 2
+    3300706: Kirchturm:pSphere1 3
+    3300708: Kirchturm:Sekunden_Z
+    3300710: Kirchturm:Sekunden_Z 1
+    3300712: Kirchturm:Sekunden_Z 2
+    3300714: Kirchturm:Sekunden_Z 3
+    3300716: Kirchturm:Stunden_Z
+    3300718: Kirchturm:Stunden_Z 1
+    3300720: Kirchturm:Stunden_Z 2
+    3300722: Kirchturm:Stunden_Z 3
+    3300724: Kirchturm:Turm1
+    3300726: Kirchturm:Uhr
+    3300728: Kirchturm:Uhr 1
+    3300730: Kirchturm:Uhr 2
+    3300732: Kirchturm:Uhr 3
+    3300734: Kirchturm:Unterteilugn_Mitte
+    3300736: Kirchturm:Unterteilugn_Mitte 1
+    3300738: Kirchturm:Unterteilugn_Mitte 2
+    3300740: Kirchturm:Unterteilugn_Mitte 3
+    3300742: Kirchturm:Vorhaus 1
+    3300744: Kirchturm:Vorne
+    3300746: Kirchturm:Zehn
+    3300748: Kirchturm:Zehn 1
+    3300750: Kirchturm:Zehn 2
+    3300752: Kirchturm:Zehn 3
+    3300754: Mauerturm:Dach1
+    3300756: Mauerturm:Dach1 1
+    3300758: Mauerturm:Dach1 10
+    3300760: Mauerturm:Dach1 2
+    3300762: Mauerturm:Dach1 3
+    3300764: Mauerturm:Dach1 4
+    3300766: Mauerturm:Dach1 5
+    3300768: Mauerturm:Dach1 6
+    3300770: Mauerturm:Dach1 7
+    3300772: Mauerturm:Dach1 8
+    3300774: Mauerturm:Dach1 9
+    3300776: Mauerturm:Dach2
+    3300778: Mauerturm:Dach2 1
+    3300780: Mauerturm:Dach2 2
+    3300782: Mauerturm:Dach2 3
+    3300784: Mauerturm:Dach2 4
+    3300786: Mauerturm:Dach2 5
+    3300788: Mauerturm:Dach2 6
+    3300790: Mauerturm:Dach2 7
+    3300792: Mauerturm:Dach2 8
+    3300794: Mauerturm:Dach2 9
+    3300796: Mauerturm:Turm 11
+    3300798: Mauerturm:Turm 12
+    3300800: Mauerturm:Turm 13
+    3300802: Mauerturm:Turm 14
+    3300804: Mauerturm:Turm 15
+    3300806: Mauerturm:Turm 16
+    3300808: Mauerturm:Turm 17
+    3300810: Mauerturm:Turm 18
+    3300812: Mauerturm:Turm 19
+    3300814: Mauerturm:Turm 20
+    3300816: Mauerturm:Turm 21
+    3300818: Mauerturm:Turm4
+    3300820: nurbsToPoly2
+    3300822: nurbsToPoly2 1
+    3300824: nurbsToPoly2 2
+    3300826: nurbsToPoly2 3
+    3300828: nurbsToPoly2 4
+    3300830: Passage:Burgtor:Turm1:Burgtor:pCube50
+    3300832: Passage:Burgtor:Turm1:Burgtor:pCube51
+    3300834: Passage:Burgtor:Turm1:Burgtor:pCube52
+    3300836: Passage:Burgtor:Turm1:Burgtor:pCube53
+    3300838: Passage:Burgtor:Turm1:Burgtor:pCube54
+    3300840: Passage:Burgtor:Turm1:Burgtor:pCube55
+    3300842: Passage:Burgtor:Turm1:Burgtor:pCube56
+    3300844: Passage:Burgtor:Turm1:Burgtor:pCube57
+    3300846: Passage:Burgtor:Turm1:Burgtor:pCube58
+    3300848: Passage:Burgtor:Turm1:Burgtor:pCube59
+    3300850: Passage:Burgtor:Turm1:Burgtor:pCube63
+    3300852: Passage:Burgtor:Turm1:Burgtor:pCube64
+    3300854: Passage:Burgtor:Turm1:Burgtor:pCube65
+    3300856: Passage:Burgtor:Turm1:Burgtor:pCube66
+    3300858: Passage:Dach
+    3300860: Passage:Dach1
+    3300862: Passage:Dach_im_Dach
+    3300864: Passage:Fenster
+    3300866: Passage:Gebaeude
+    3300868: Passage:Innenraum1
+    3300870: Passage:Kamin_Seite1
+    3300872: Passage:Kamin_Seite2
+    3300874: Passage:Kamin_Seite3
+    3300876: pCube1
+    3300878: pCube1 1
+    3300880: pCube1 2
+    3300882: pCube1 3
+    3300884: pCube1 4
+    3300886: pCube2
+    3300888: pCube2 1
+    3300890: pCube2 2
+    3300892: pCube2 3
+    3300894: pCube2 4
+    3300896: pCylinder1
+    3300898: pCylinder1 1
+    3300900: pCylinder1 10
+    3300902: pCylinder1 11
+    3300904: pCylinder1 12
+    3300906: pCylinder1 13
+    3300908: pCylinder1 14
+    3300910: pCylinder1 15
+    3300912: pCylinder1 16
+    3300914: pCylinder1 17
+    3300916: pCylinder1 18
+    3300918: pCylinder1 19
+    3300920: pCylinder1 2
+    3300922: pCylinder1 20
+    3300924: pCylinder1 21
+    3300926: pCylinder1 22
+    3300928: pCylinder1 23
+    3300930: pCylinder1 24
+    3300932: pCylinder1 25
+    3300934: pCylinder1 26
+    3300936: pCylinder1 3
+    3300938: pCylinder1 4
+    3300940: pCylinder1 5
+    3300942: pCylinder1 6
+    3300944: pCylinder1 7
+    3300946: pCylinder1 8
+    3300948: pCylinder1 9
+    3300950: pCylinder2
+    3300952: pCylinder2 1
+    3300954: pCylinder2 10
+    3300956: pCylinder2 11
+    3300958: pCylinder2 12
+    3300960: pCylinder2 13
+    3300962: pCylinder2 14
+    3300964: pCylinder2 15
+    3300966: pCylinder2 16
+    3300968: pCylinder2 17
+    3300970: pCylinder2 18
+    3300972: pCylinder2 19
+    3300974: pCylinder2 2
+    3300976: pCylinder2 20
+    3300978: pCylinder2 21
+    3300980: pCylinder2 22
+    3300982: pCylinder2 23
+    3300984: pCylinder2 24
+    3300986: pCylinder2 25
+    3300988: pCylinder2 26
+    3300990: pCylinder2 3
+    3300992: pCylinder2 4
+    3300994: pCylinder2 5
+    3300996: pCylinder2 6
+    3300998: pCylinder2 7
+    3301000: pCylinder2 8
+    3301002: pCylinder2 9
+    3301004: pCylinder3
+    3301006: pCylinder3 1
+    3301008: pCylinder3 10
+    3301010: pCylinder3 11
+    3301012: pCylinder3 12
+    3301014: pCylinder3 13
+    3301016: pCylinder3 14
+    3301018: pCylinder3 15
+    3301020: pCylinder3 16
+    3301022: pCylinder3 17
+    3301024: pCylinder3 18
+    3301026: pCylinder3 19
+    3301028: pCylinder3 2
+    3301030: pCylinder3 20
+    3301032: pCylinder3 21
+    3301034: pCylinder3 22
+    3301036: pCylinder3 23
+    3301038: pCylinder3 24
+    3301040: pCylinder3 25
+    3301042: pCylinder3 26
+    3301044: pCylinder3 3
+    3301046: pCylinder3 4
+    3301048: pCylinder3 5
+    3301050: pCylinder3 6
+    3301052: pCylinder3 7
+    3301054: pCylinder3 8
+    3301056: pCylinder3 9
+    3301058: pPipe1
+    3301060: pPipe1 1
+    3301062: pPipe1 10
+    3301064: pPipe1 11
+    3301066: pPipe1 12
+    3301068: pPipe1 13
+    3301070: pPipe1 14
+    3301072: pPipe1 15
+    3301074: pPipe1 16
+    3301076: pPipe1 17
+    3301078: pPipe1 18
+    3301080: pPipe1 19
+    3301082: pPipe1 2
+    3301084: pPipe1 20
+    3301086: pPipe1 21
+    3301088: pPipe1 22
+    3301090: pPipe1 23
+    3301092: pPipe1 24
+    3301094: pPipe1 25
+    3301096: pPipe1 26
+    3301098: pPipe1 3
+    3301100: pPipe1 4
+    3301102: pPipe1 5
+    3301104: pPipe1 6
+    3301106: pPipe1 7
+    3301108: pPipe1 8
+    3301110: pPipe1 9
+    3301112: pPlane1
+    3301114: pPlane2
+    3301116: pPlane3
+    3301118: pPlane4
+    3301120: Zwischenhaus:Dach 1
+    3301122: Zwischenhaus:Etage1
+    3301124: Zwischenhaus:Fachwerk
+    3301126: Zwischenhaus:Holz
+    3301128: Zwischenhaus:Holz3
+    3301130: Zwischenhaus:Holz4
+    3301132: Zwischenhaus:Holz5
+    3301134: Zwischenhaus:Holz6
+    3301136: Zwischenhaus:Holz7
+    3301138: Zwischenhaus:Innenraum
+    3301140: Zwischenhaus:Kamin_Seite3
+    3301142: Zwischenhaus:Kamin_Seite4
+    3301144: Zwischenhaus:Obere_Etage
+    3301146: Zwischenhaus:Passage:Kamin_Seite3
+    4300000: pPlane1
+    4300002: pPlane2
+    4300004: pPlane3
+    4300006: pPlane4
+    4300008: Kirchturm:Dach1
+    4300010: Kirchturm:Vorhaus
+    4300012: Kirchturm:Vorne
+    4300014: Kirchturm:Hinten
+    4300016: Kirchturm:Dach
+    4300018: Kirchturm:Kreuz
+    4300020: Kirchturm:Dach
+    4300022: Kirchturm:Turm1
+    4300024: Kirchturm:Uhr
+    4300026: Kirchturm:Unterteilugn_Mitte
+    4300028: Kirchturm:eins
+    4300030: Kirchturm:Zehn
+    4300032: Kirchturm:pCube5
+    4300034: Kirchturm:pCube6
+    4300036: Kirchturm:pCube7
+    4300038: Kirchturm:pCube9
+    4300040: Kirchturm:pCube10
+    4300042: Kirchturm:pCube11
+    4300044: Kirchturm:pCube12
+    4300046: Kirchturm:pCube13
+    4300048: Kirchturm:pCube39
+    4300050: Kirchturm:pCube40
+    4300052: Kirchturm:pCube41
+    4300054: Kirchturm:pCube42
+    4300056: Kirchturm:pCube24
+    4300058: Kirchturm:pCube25
+    4300060: Kirchturm:pCube26
+    4300062: Kirchturm:pCube27
+    4300064: Kirchturm:pCube33
+    4300066: Kirchturm:pCube34
+    4300068: Kirchturm:pCube35
+    4300070: Kirchturm:pCube36
+    4300072: Kirchturm:pCube37
+    4300074: Kirchturm:pCube38
+    4300076: Kirchturm:pCube28
+    4300078: Kirchturm:pCube29
+    4300080: Kirchturm:pCube31
+    4300082: Kirchturm:Elf
+    4300084: Kirchturm:Sekunden_Z
+    4300086: Kirchturm:Stunden_Z
+    4300088: Kirchturm:pSphere1
+    4300090: Kirchturm:pCube32
+    4300092: Kirchturm:Minuten_z
+    4300094: Kirchturm:Uhr
+    4300096: Kirchturm:Unterteilugn_Mitte
+    4300098: Kirchturm:eins
+    4300100: Kirchturm:Zehn
+    4300102: Kirchturm:pCube5
+    4300104: Kirchturm:pCube6
+    4300106: Kirchturm:pCube7
+    4300108: Kirchturm:pCube9
+    4300110: Kirchturm:pCube10
+    4300112: Kirchturm:pCube11
+    4300114: Kirchturm:pCube12
+    4300116: Kirchturm:pCube13
+    4300118: Kirchturm:pCube39
+    4300120: Kirchturm:pCube40
+    4300122: Kirchturm:pCube41
+    4300124: Kirchturm:pCube42
+    4300126: Kirchturm:pCube24
+    4300128: Kirchturm:pCube25
+    4300130: Kirchturm:pCube26
+    4300132: Kirchturm:pCube27
+    4300134: Kirchturm:pCube33
+    4300136: Kirchturm:pCube34
+    4300138: Kirchturm:pCube35
+    4300140: Kirchturm:pCube36
+    4300142: Kirchturm:pCube37
+    4300144: Kirchturm:pCube38
+    4300146: Kirchturm:pCube28
+    4300148: Kirchturm:pCube29
+    4300150: Kirchturm:pCube31
+    4300152: Kirchturm:Elf
+    4300154: Kirchturm:Sekunden_Z
+    4300156: Kirchturm:Stunden_Z
+    4300158: Kirchturm:pSphere1
+    4300160: Kirchturm:pCube32
+    4300162: Kirchturm:Minuten_z
+    4300164: Kirchturm:Uhr
+    4300166: Kirchturm:Unterteilugn_Mitte
+    4300168: Kirchturm:eins
+    4300170: Kirchturm:Zehn
+    4300172: Kirchturm:pCube5
+    4300174: Kirchturm:pCube6
+    4300176: Kirchturm:pCube7
+    4300178: Kirchturm:pCube9
+    4300180: Kirchturm:pCube10
+    4300182: Kirchturm:pCube11
+    4300184: Kirchturm:pCube12
+    4300186: Kirchturm:pCube13
+    4300188: Kirchturm:pCube39
+    4300190: Kirchturm:pCube40
+    4300192: Kirchturm:pCube41
+    4300194: Kirchturm:pCube42
+    4300196: Kirchturm:pCube24
+    4300198: Kirchturm:pCube25
+    4300200: Kirchturm:pCube26
+    4300202: Kirchturm:pCube27
+    4300204: Kirchturm:pCube33
+    4300206: Kirchturm:pCube34
+    4300208: Kirchturm:pCube35
+    4300210: Kirchturm:pCube36
+    4300212: Kirchturm:pCube37
+    4300214: Kirchturm:pCube38
+    4300216: Kirchturm:pCube28
+    4300218: Kirchturm:pCube29
+    4300220: Kirchturm:pCube31
+    4300222: Kirchturm:Elf
+    4300224: Kirchturm:Sekunden_Z
+    4300226: Kirchturm:Stunden_Z
+    4300228: Kirchturm:pSphere1
+    4300230: Kirchturm:pCube32
+    4300232: Kirchturm:Minuten_z
+    4300234: Kirchturm:Uhr
+    4300236: Kirchturm:Unterteilugn_Mitte
+    4300238: Kirchturm:eins
+    4300240: Kirchturm:Zehn
+    4300242: Kirchturm:pCube5
+    4300244: Kirchturm:pCube6
+    4300246: Kirchturm:pCube7
+    4300248: Kirchturm:pCube9
+    4300250: Kirchturm:pCube10
+    4300252: Kirchturm:pCube11
+    4300254: Kirchturm:pCube12
+    4300256: Kirchturm:pCube13
+    4300258: Kirchturm:pCube39
+    4300260: Kirchturm:pCube40
+    4300262: Kirchturm:pCube41
+    4300264: Kirchturm:pCube42
+    4300266: Kirchturm:pCube24
+    4300268: Kirchturm:pCube25
+    4300270: Kirchturm:pCube26
+    4300272: Kirchturm:pCube27
+    4300274: Kirchturm:pCube33
+    4300276: Kirchturm:pCube34
+    4300278: Kirchturm:pCube35
+    4300280: Kirchturm:pCube36
+    4300282: Kirchturm:pCube37
+    4300284: Kirchturm:pCube38
+    4300286: Kirchturm:pCube28
+    4300288: Kirchturm:pCube29
+    4300290: Kirchturm:pCube31
+    4300292: Kirchturm:Elf
+    4300294: Kirchturm:Sekunden_Z
+    4300296: Kirchturm:Stunden_Z
+    4300298: Kirchturm:pSphere1
+    4300300: Kirchturm:pCube32
+    4300302: Kirchturm:Minuten_z
+    4300304: Brunnen:pCylinder1
+    4300306: Brunnen:pCylinder2
+    4300308: Brunnen:pCylinder3
+    4300310: Brunnen:Seite_2
+    4300312: Brunnen:Dach
+    4300314: Brunnen:Seil
+    4300316: Brunnen:Seite_1
+    4300318: Brunnen:Brunnen
+    4300320: Zwischenhaus:Etage1
+    4300322: Zwischenhaus:Holz
+    4300324: Zwischenhaus:Holz4
+    4300326: Zwischenhaus:Holz5
+    4300328: Zwischenhaus:Holz3
+    4300330: Zwischenhaus:Obere_Etage
+    4300332: Zwischenhaus:Fachwerk
+    4300334: Zwischenhaus:Holz6
+    4300336: Zwischenhaus:Holz7
+    4300338: Zwischenhaus:Dach
+    4300340: Zwischenhaus:Passage:Kamin_Seite3
+    4300342: Zwischenhaus:Kamin_Seite3
+    4300344: Zwischenhaus:Kamin_Seite4
+    4300346: Zwischenhaus:Innenraum
+    4300348: Passage:Dach
+    4300350: Passage:Gebaeude
+    4300352: Passage:Dach_im_Dach
+    4300354: Passage:Burgtor:Turm1:Burgtor:pCube50
+    4300356: Passage:Burgtor:Turm1:Burgtor:pCube51
+    4300358: Passage:Burgtor:Turm1:Burgtor:pCube52
+    4300360: Passage:Burgtor:Turm1:Burgtor:pCube53
+    4300362: Passage:Burgtor:Turm1:Burgtor:pCube54
+    4300364: Passage:Burgtor:Turm1:Burgtor:pCube55
+    4300366: Passage:Burgtor:Turm1:Burgtor:pCube56
+    4300368: Passage:Burgtor:Turm1:Burgtor:pCube57
+    4300370: Passage:Burgtor:Turm1:Burgtor:pCube58
+    4300372: Passage:Burgtor:Turm1:Burgtor:pCube59
+    4300374: Passage:Burgtor:Turm1:Burgtor:pCube63
+    4300376: Passage:Burgtor:Turm1:Burgtor:pCube64
+    4300378: Passage:Burgtor:Turm1:Burgtor:pCube65
+    4300380: Passage:Burgtor:Turm1:Burgtor:pCube66
+    4300382: Passage:Kamin_Seite1
+    4300384: Passage:Kamin_Seite2
+    4300386: Passage:Kamin_Seite3
+    4300388: Passage:Dach1
+    4300390: Passage:Fenster
+    4300392: Passage:Innenraum1
+    4300394: Hinter_Turm:Turm
+    4300396: Hinter_Turm:Dach
+    4300398: Hinter_Turm:Femster
+    4300400: Hinter_Turm:Dach1
+    4300402: Feuerwehrhaus:Kamin
+    4300404: Feuerwehrhaus:Kreuz1
+    4300406: Feuerwehrhaus:Haus
+    4300408: Feuerwehrhaus:Dach
+    4300410: Feuerwehrhaus:pCube38
+    4300412: Feuerwehrhaus:pCube34
+    4300414: Feuerwehrhaus:pCube41
+    4300416: Feuerwehrhaus:pCube42
+    4300418: Feuerwehrhaus:pCube43
+    4300420: Feuerwehrhaus:pCube44
+    4300422: Feuerwehrhaus:pPlane1
+    4300424: Feuerwehrhaus:pPlane2
+    4300426: Dach_Haus:pCube27
+    4300428: Dach_Haus:pCube26
+    4300430: Dach_Haus:Dach
+    4300432: Dach_Haus:Haus
+    4300434: Haeuserreihe:Untere_Reihe
+    4300436: Haeuserreihe:Mittlere_Reihe
+    4300438: Haeuserreihe:Dach
+    4300440: Haeuserreihe:Innenwand1
+    4300442: Burgtor1:Burgtor_2:Rechts1
+    4300444: Burgtor1:Burgtor_2:Links
+    4300446: Burgtor1:Links
+    4300448: Burgtor1:Rechts1
+    4300450: Burgtor1:Burgtor_2:Burgtor
+    4300452: Burgtor1:Turm1:Burgtor:Truhe:pCube62
+    4300454: Burgtor1:Turm1:Burgtor:pCube67
+    4300456: Burgtor1:Turm1:Burgtor:pCube69
+    4300458: Burgtor1:Turm1:Burgtor:pCube70
+    4300460: Burgtor1:Turm1:Burgtor:pCube71
+    4300462: Burgtor1:Turm1:Burgtor:pCube72
+    4300464: Burgtor1:Turm1:Burgtor:pCube75
+    4300466: Burgtor1:Turm1:Burgtor:pCube76
+    4300468: Burgtor1:Turm1:Burgtor:pCube77
+    4300470: Burgtor1:Turm1:Burgtor:pCube78
+    4300472: Burgtor1:Turm1:Burgtor:pCube81
+    4300474: Burgtor1:Turm1:Burgtor:pCube82
+    4300476: Burgtor1:pCube62
+    4300478: Burgtor1:pCube67
+    4300480: Burgtor1:pCube69
+    4300482: Burgtor1:pCube70
+    4300484: Burgtor1:pCube71
+    4300486: Burgtor1:pCube72
+    4300488: Burgtor1:pCube75
+    4300490: Burgtor1:pCube76
+    4300492: Burgtor1:pCube77
+    4300494: Burgtor1:pCube78
+    4300496: Burgtor1:pCube81
+    4300498: Burgtor1:pCube82
+    4300500: Burgtor1:pCube62
+    4300502: Burgtor1:pCube67
+    4300504: Burgtor1:pCube69
+    4300506: Burgtor1:pCube70
+    4300508: Burgtor1:pCube71
+    4300510: Burgtor1:pCube72
+    4300512: Burgtor1:pCube75
+    4300514: Burgtor1:pCube76
+    4300516: Burgtor1:pCube77
+    4300518: Burgtor1:pCube78
+    4300520: Burgtor1:pCube81
+    4300522: Burgtor1:pCube82
+    4300524: Burgtor1:pCube62
+    4300526: Burgtor1:pCube67
+    4300528: Burgtor1:pCube69
+    4300530: Burgtor1:pCube70
+    4300532: Burgtor1:pCube71
+    4300534: Burgtor1:pCube72
+    4300536: Burgtor1:pCube75
+    4300538: Burgtor1:pCube76
+    4300540: Burgtor1:pCube77
+    4300542: Burgtor1:pCube78
+    4300544: Burgtor1:pCube81
+    4300546: Burgtor1:pCube82
+    4300548: Burgtor1:pCube62
+    4300550: Burgtor1:pCube67
+    4300552: Burgtor1:pCube69
+    4300554: Burgtor1:pCube70
+    4300556: Burgtor1:pCube71
+    4300558: Burgtor1:pCube72
+    4300560: Burgtor1:pCube75
+    4300562: Burgtor1:pCube76
+    4300564: Burgtor1:pCube77
+    4300566: Burgtor1:pCube78
+    4300568: Burgtor1:pCube81
+    4300570: Burgtor1:pCube82
+    4300572: Burgtor1:pCube62
+    4300574: Burgtor1:pCube67
+    4300576: Burgtor1:pCube69
+    4300578: Burgtor1:pCube70
+    4300580: Burgtor1:pCube71
+    4300582: Burgtor1:pCube72
+    4300584: Burgtor1:pCube75
+    4300586: Burgtor1:pCube76
+    4300588: Burgtor1:pCube77
+    4300590: Burgtor1:pCube78
+    4300592: Burgtor1:pCube81
+    4300594: Burgtor1:pCube82
+    4300596: Burgtor1:pCube62
+    4300598: Burgtor1:pCube67
+    4300600: Burgtor1:pCube69
+    4300602: Burgtor1:pCube70
+    4300604: Burgtor1:pCube71
+    4300606: Burgtor1:pCube72
+    4300608: Burgtor1:pCube75
+    4300610: Burgtor1:pCube76
+    4300612: Burgtor1:pCube77
+    4300614: Burgtor1:pCube78
+    4300616: Burgtor1:pCube81
+    4300618: Burgtor1:pCube82
+    4300620: Burgtor1:pCube62
+    4300622: Burgtor1:pCube67
+    4300624: Burgtor1:pCube69
+    4300626: Burgtor1:pCube70
+    4300628: Burgtor1:pCube71
+    4300630: Burgtor1:pCube72
+    4300632: Burgtor1:pCube75
+    4300634: Burgtor1:pCube76
+    4300636: Burgtor1:pCube77
+    4300638: Burgtor1:pCube78
+    4300640: Burgtor1:pCube81
+    4300642: Burgtor1:pCube82
+    4300644: Burgtor1:pCube17
+    4300646: Burgtor1:pCube18
+    4300648: Burgtor1:pCube19
+    4300650: Burgtor1:pCube16
+    4300652: Burgtor1:pCube15
+    4300654: Burgtor1:pCube8
+    4300656: Burgtor1:pCube20
+    4300658: Burgtor1:pCube21
+    4300660: Burgtor1:pCube1
+    4300662: Burgtor1:pCube10
+    4300664: Burgtor1:pCube11
+    4300666: Burgtor1:pCube12
+    4300668: Burgtor1:pCube13
+    4300670: Burgtor1:pCube14
+    4300672: Geisterturm2:Kamin_Vorne1
+    4300674: Geisterturm2:Dachstube
+    4300676: Geisterturm2:Dachstuben_Fenster
+    4300678: Geisterturm2:Kamin_Vorne
+    4300680: Geisterturm2:Dachstuben_Fenster1
+    4300682: Geisterturm2:Turmfenster
+    4300684: Geisterturm2:Fachwerk
+    4300686: Geisterturm2:polySurface114
+    4300688: Geisterturm2:polySurface115
+    4300690: Geisterturm2:Weisses
+    4300692: Geisterturm2:polySurface9
+    4300694: Geisterturm2:polySurface11
+    4300696: Geisterturm2:polySurface12
+    4300698: Geisterturm2:polySurface13
+    4300700: Geisterturm2:polySurface14
+    4300702: Geisterturm2:Ring
+    4300704: Geisterturm2:Turm
+    4300706: Geisterturm2:Passage:Dach1
+    4300708: Geisterturm2:Passage:Fenster
+    4300710: Geisterturm2:Passage:Dach2
+    4300712: Geisterturm2:Passage:Fenster1
+    4300714: Geisterturm2:Ring1
+    4300716: Geisterturm2:Spitze
+    4300718: Fachwerk1:polySurface6
+    4300720: Fachwerk1:polySurface9
+    4300722: Fachwerk1:polySurface10
+    4300724: Fachwerk1:Kleines_Dach1
+    4300726: Fachwerk1:Kleines_Dach2
+    4300728: Fachwerk1:Dach
+    4300730: Fachwerk1:Dach1
+    4300732: Fachwerk1:Kamin
+    4300734: Fachwerk1:polySurface1
+    4300736: Fachwerk1:pCube2
+    4300738: Fachwerk1:pCube1
+    4300740: Fachwerk1:pCube4
+    4300742: Fachwerk1:pCube6
+    4300744: Fachwerk1:pCube3
+    4300746: Fachwerk1:polySurface1
+    4300748: Fachwerk1:pCube2
+    4300750: Fachwerk1:pCube1
+    4300752: Fachwerk1:pCube4
+    4300754: Fachwerk1:pCube6
+    4300756: Fachwerk1:pCube3
+    4300758: Burgmauer1:pCube1
+    4300760: Burgmauer1:pCube29
+    4300762: Burgmauer1:pCube39
+    4300764: Burgmauer1:pCube40
+    4300766: Burgmauer1:pCube31
+    4300768: Burgmauer1:pCube33
+    4300770: Burgmauer1:pCube36
+    4300772: Burgmauer1:pCube38
+    4300774: Burgmauer1:pCube34
+    4300776: Burgmauer1:pCube35
+    4300778: Burgmauer1:pCube37
+    4300780: Burgmauer1:pCube41
+    4300782: Burgmauer1:pCube30
+    4300784: Burgmauer1:pCube44
+    4300786: Burgmauer1:pCube46
+    4300788: Mauerturm:Turm
+    4300790: Mauerturm:Dach2
+    4300792: Mauerturm:Turm4
+    4300794: Mauerturm:Dach1
+    4300796: Mauerturm:Turm
+    4300798: Mauerturm:Dach1
+    4300800: Mauerturm:Turm
+    4300802: Mauerturm:Dach2
+    4300804: Mauerturm:Dach1
+    4300806: Mauerturm:Turm
+    4300808: Mauerturm:Dach2
+    4300810: Mauerturm:Dach1
+    4300812: Mauerturm:Turm
+    4300814: Mauerturm:Dach2
+    4300816: Mauerturm:Dach1
+    4300818: Mauerturm:Turm
+    4300820: Mauerturm:Dach2
+    4300822: Mauerturm:Dach1
+    4300824: Mauerturm:Turm
+    4300826: Mauerturm:Dach2
+    4300828: Mauerturm:Dach1
+    4300830: Mauerturm:Turm
+    4300832: Mauerturm:Dach2
+    4300834: Mauerturm:Dach1
+    4300836: Mauerturm:Turm
+    4300838: Mauerturm:Dach2
+    4300840: Mauerturm:Dach1
+    4300842: Mauerturm:Turm
+    4300844: Mauerturm:Dach2
+    4300846: Mauerturm:Dach1
+    4300848: Mauerturm:Turm
+    4300850: Mauerturm:Dach2
+    4300852: Mauerturm:Dach1
+    4300854: Hinterturm:Turm
+    4300856: Hinterturm:Dach
+    4300858: Hinterturm:Femster
+    4300860: Hinterturm:Dach1
+    4300862: Grosses_Fachwerk:Kreuz
+    4300864: Grosses_Fachwerk:Holz1
+    4300866: Grosses_Fachwerk:Holz2
+    4300868: Grosses_Fachwerk:Holz5
+    4300870: Grosses_Fachwerk:Fachwerk1
+    4300872: Grosses_Fachwerk:Dach
+    4300874: Grosses_Fachwerk:polySurface1
+    4300876: Grosses_Fachwerk:polySurface2
+    4300878: Grosses_Fachwerk:polySurface3
+    4300880: Grosses_Fachwerk:Dach
+    4300882: Grosses_Fachwerk:Femster
+    4300884: Grosses_Fachwerk:Dach1
+    4300886: Grosses_Fachwerk:Femster1
+    4300888: pCylinder1
+    4300890: pCylinder2
+    4300892: pPipe1
+    4300894: pCylinder3
+    4300896: pCylinder1
+    4300898: pCylinder2
+    4300900: pPipe1
+    4300902: pCylinder3
+    4300904: pCylinder1
+    4300906: pCylinder2
+    4300908: pPipe1
+    4300910: pCylinder3
+    4300912: pCylinder1
+    4300914: pCylinder2
+    4300916: pPipe1
+    4300918: pCylinder3
+    4300920: pCube1
+    4300922: nurbsToPoly2
+    4300924: pCube2
+    4300926: Fackel:pCube1
+    4300928: Fackel:nurbsToPoly2
+    4300930: Fackel:pCube2
+    4300932: pCube1
+    4300934: nurbsToPoly2
+    4300936: pCube2
+    4300938: pCube1
+    4300940: nurbsToPoly2
+    4300942: pCube2
+    4300944: pCube1
+    4300946: nurbsToPoly2
+    4300948: pCube2
+    4300950: pCube1
+    4300952: nurbsToPoly2
+    4300954: pCube2
+    4300956: Fackel7:pCylinder1
+    4300958: Fackel7:pCylinder2
+    4300960: Fackel7:pPipe1
+    4300962: Fackel7:pCylinder3
+    4300964: pCylinder1
+    4300966: pCylinder2
+    4300968: pPipe1
+    4300970: pCylinder3
+    4300972: pCylinder1
+    4300974: pCylinder2
+    4300976: pPipe1
+    4300978: pCylinder3
+    4300980: pCylinder1
+    4300982: pCylinder2
+    4300984: pPipe1
+    4300986: pCylinder3
+    4300988: pCylinder1
+    4300990: pCylinder2
+    4300992: pPipe1
+    4300994: pCylinder3
+    4300996: pCylinder1
+    4300998: pCylinder2
+    4301000: pPipe1
+    4301002: pCylinder3
+    4301004: pCylinder1
+    4301006: pCylinder2
+    4301008: pPipe1
+    4301010: pCylinder3
+    4301012: pCylinder1
+    4301014: pCylinder2
+    4301016: pPipe1
+    4301018: pCylinder3
+    4301020: pCylinder1
+    4301022: pCylinder2
+    4301024: pPipe1
+    4301026: pCylinder3
+    4301028: pCylinder1
+    4301030: pCylinder2
+    4301032: pPipe1
+    4301034: pCylinder3
+    4301036: pCylinder1
+    4301038: pCylinder2
+    4301040: pPipe1
+    4301042: pCylinder3
+    4301044: pCylinder1
+    4301046: pCylinder2
+    4301048: pPipe1
+    4301050: pCylinder3
+    4301052: pCylinder1
+    4301054: pCylinder2
+    4301056: pPipe1
+    4301058: pCylinder3
+    4301060: pCylinder1
+    4301062: pCylinder2
+    4301064: pPipe1
+    4301066: pCylinder3
+    4301068: pCylinder1
+    4301070: pCylinder2
+    4301072: pPipe1
+    4301074: pCylinder3
+    4301076: pCylinder1
+    4301078: pCylinder2
+    4301080: pPipe1
+    4301082: pCylinder3
+    4301084: pCylinder1
+    4301086: pCylinder2
+    4301088: pPipe1
+    4301090: pCylinder3
+    4301092: pCylinder1
+    4301094: pCylinder2
+    4301096: pPipe1
+    4301098: pCylinder3
+    4301100: pCylinder1
+    4301102: pCylinder2
+    4301104: pPipe1
+    4301106: pCylinder3
+    4301108: pCylinder1
+    4301110: pCylinder2
+    4301112: pPipe1
+    4301114: pCylinder3
+    4301116: pCylinder1
+    4301118: pCylinder2
+    4301120: pPipe1
+    4301122: pCylinder3
+    4301124: pCylinder1
+    4301126: pCylinder2
+    4301128: pPipe1
+    4301130: pCylinder3
+    4301132: pCylinder1
+    4301134: pCylinder2
+    4301136: pPipe1
+    4301138: pCylinder3
+    4301140: pCylinder1
+    4301142: pCylinder2
+    4301144: pPipe1
+    4301146: pCylinder3
+    6400000: Brunnen:Brunnen 1
+    6400002: Brunnen:Dach
+    6400004: Brunnen:pCylinder1
+    6400006: Brunnen:pCylinder2
+    6400008: Brunnen:pCylinder3
+    6400010: Brunnen:Seil
+    6400012: Brunnen:Seite_1
+    6400014: Brunnen:Seite_2
+    6400016: Burgmauer1:pCube1
+    6400018: Burgmauer1:pCube29
+    6400020: Burgmauer1:pCube30
+    6400022: Burgmauer1:pCube31
+    6400024: Burgmauer1:pCube33
+    6400026: Burgmauer1:pCube34
+    6400028: Burgmauer1:pCube35
+    6400030: Burgmauer1:pCube36
+    6400032: Burgmauer1:pCube37
+    6400034: Burgmauer1:pCube38
+    6400036: Burgmauer1:pCube39
+    6400038: Burgmauer1:pCube40
+    6400040: Burgmauer1:pCube41
+    6400042: Burgmauer1:pCube44
+    6400044: Burgmauer1:pCube46
+    6400046: Burgtor1:Burgtor_2:Burgtor
+    6400048: Burgtor1:Burgtor_2:Links
+    6400050: Burgtor1:Burgtor_2:Rechts1
+    6400052: Burgtor1:Links
+    6400054: Burgtor1:pCube1
+    6400056: Burgtor1:pCube10
+    6400058: Burgtor1:pCube11
+    6400060: Burgtor1:pCube12
+    6400062: Burgtor1:pCube13
+    6400064: Burgtor1:pCube14
+    6400066: Burgtor1:pCube15
+    6400068: Burgtor1:pCube16
+    6400070: Burgtor1:pCube17
+    6400072: Burgtor1:pCube18
+    6400074: Burgtor1:pCube19
+    6400076: Burgtor1:pCube20
+    6400078: Burgtor1:pCube21
+    6400080: Burgtor1:pCube62
+    6400082: Burgtor1:pCube62 1
+    6400084: Burgtor1:pCube62 2
+    6400086: Burgtor1:pCube62 3
+    6400088: Burgtor1:pCube62 4
+    6400090: Burgtor1:pCube62 5
+    6400092: Burgtor1:pCube62 6
+    6400094: Burgtor1:pCube67
+    6400096: Burgtor1:pCube67 1
+    6400098: Burgtor1:pCube67 2
+    6400100: Burgtor1:pCube67 3
+    6400102: Burgtor1:pCube67 4
+    6400104: Burgtor1:pCube67 5
+    6400106: Burgtor1:pCube67 6
+    6400108: Burgtor1:pCube69
+    6400110: Burgtor1:pCube69 1
+    6400112: Burgtor1:pCube69 2
+    6400114: Burgtor1:pCube69 3
+    6400116: Burgtor1:pCube69 4
+    6400118: Burgtor1:pCube69 5
+    6400120: Burgtor1:pCube69 6
+    6400122: Burgtor1:pCube70
+    6400124: Burgtor1:pCube70 1
+    6400126: Burgtor1:pCube70 2
+    6400128: Burgtor1:pCube70 3
+    6400130: Burgtor1:pCube70 4
+    6400132: Burgtor1:pCube70 5
+    6400134: Burgtor1:pCube70 6
+    6400136: Burgtor1:pCube71
+    6400138: Burgtor1:pCube71 1
+    6400140: Burgtor1:pCube71 2
+    6400142: Burgtor1:pCube71 3
+    6400144: Burgtor1:pCube71 4
+    6400146: Burgtor1:pCube71 5
+    6400148: Burgtor1:pCube71 6
+    6400150: Burgtor1:pCube72
+    6400152: Burgtor1:pCube72 1
+    6400154: Burgtor1:pCube72 2
+    6400156: Burgtor1:pCube72 3
+    6400158: Burgtor1:pCube72 4
+    6400160: Burgtor1:pCube72 5
+    6400162: Burgtor1:pCube72 6
+    6400164: Burgtor1:pCube75
+    6400166: Burgtor1:pCube75 1
+    6400168: Burgtor1:pCube75 2
+    6400170: Burgtor1:pCube75 3
+    6400172: Burgtor1:pCube75 4
+    6400174: Burgtor1:pCube75 5
+    6400176: Burgtor1:pCube75 6
+    6400178: Burgtor1:pCube76
+    6400180: Burgtor1:pCube76 1
+    6400182: Burgtor1:pCube76 2
+    6400184: Burgtor1:pCube76 3
+    6400186: Burgtor1:pCube76 4
+    6400188: Burgtor1:pCube76 5
+    6400190: Burgtor1:pCube76 6
+    6400192: Burgtor1:pCube77
+    6400194: Burgtor1:pCube77 1
+    6400196: Burgtor1:pCube77 2
+    6400198: Burgtor1:pCube77 3
+    6400200: Burgtor1:pCube77 4
+    6400202: Burgtor1:pCube77 5
+    6400204: Burgtor1:pCube77 6
+    6400206: Burgtor1:pCube78
+    6400208: Burgtor1:pCube78 1
+    6400210: Burgtor1:pCube78 2
+    6400212: Burgtor1:pCube78 3
+    6400214: Burgtor1:pCube78 4
+    6400216: Burgtor1:pCube78 5
+    6400218: Burgtor1:pCube78 6
+    6400220: Burgtor1:pCube8
+    6400222: Burgtor1:pCube81
+    6400224: Burgtor1:pCube81 1
+    6400226: Burgtor1:pCube81 2
+    6400228: Burgtor1:pCube81 3
+    6400230: Burgtor1:pCube81 4
+    6400232: Burgtor1:pCube81 5
+    6400234: Burgtor1:pCube81 6
+    6400236: Burgtor1:pCube82
+    6400238: Burgtor1:pCube82 1
+    6400240: Burgtor1:pCube82 2
+    6400242: Burgtor1:pCube82 3
+    6400244: Burgtor1:pCube82 4
+    6400246: Burgtor1:pCube82 5
+    6400248: Burgtor1:pCube82 6
+    6400250: Burgtor1:Rechts1
+    6400252: Burgtor1:Turm1:Burgtor:pCube67
+    6400254: Burgtor1:Turm1:Burgtor:pCube69
+    6400256: Burgtor1:Turm1:Burgtor:pCube70
+    6400258: Burgtor1:Turm1:Burgtor:pCube71
+    6400260: Burgtor1:Turm1:Burgtor:pCube72
+    6400262: Burgtor1:Turm1:Burgtor:pCube75
+    6400264: Burgtor1:Turm1:Burgtor:pCube76
+    6400266: Burgtor1:Turm1:Burgtor:pCube77
+    6400268: Burgtor1:Turm1:Burgtor:pCube78
+    6400270: Burgtor1:Turm1:Burgtor:pCube81
+    6400272: Burgtor1:Turm1:Burgtor:pCube82
+    6400274: Burgtor1:Turm1:Burgtor:Truhe:pCube62
+    6400276: Dach_Haus:Dach
+    6400278: Dach_Haus:Haus
+    6400280: Dach_Haus:pCube26
+    6400282: Dach_Haus:pCube27
+    6400284: Fachwerk1:Dach 1
+    6400286: Fachwerk1:Dach1
+    6400288: Fachwerk1:Kamin
+    6400290: Fachwerk1:Kleines_Dach1
+    6400292: Fachwerk1:Kleines_Dach2
+    6400294: Fachwerk1:pCube1
+    6400296: Fachwerk1:pCube1 1
+    6400298: Fachwerk1:pCube2
+    6400300: Fachwerk1:pCube2 1
+    6400302: Fachwerk1:pCube3
+    6400304: Fachwerk1:pCube3 1
+    6400306: Fachwerk1:pCube4
+    6400308: Fachwerk1:pCube4 1
+    6400310: Fachwerk1:pCube6
+    6400312: Fachwerk1:pCube6 1
+    6400314: Fachwerk1:polySurface1
+    6400316: Fachwerk1:polySurface1 1
+    6400318: Fachwerk1:polySurface10
+    6400320: Fachwerk1:polySurface6
+    6400322: Fachwerk1:polySurface9
+    6400324: Fackel7:pCylinder1
+    6400326: Fackel7:pCylinder2
+    6400328: Fackel7:pCylinder3
+    6400330: Fackel7:pPipe1
+    6400332: Fackel:nurbsToPoly2
+    6400334: Fackel:pCube1
+    6400336: Fackel:pCube2
+    6400338: Feuerwehrhaus:Dach
+    6400340: Feuerwehrhaus:Haus
+    6400342: Feuerwehrhaus:Kamin
+    6400344: Feuerwehrhaus:Kreuz1
+    6400346: Feuerwehrhaus:pCube34
+    6400348: Feuerwehrhaus:pCube38
+    6400350: Feuerwehrhaus:pCube41
+    6400352: Feuerwehrhaus:pCube42
+    6400354: Feuerwehrhaus:pCube43
+    6400356: Feuerwehrhaus:pCube44
+    6400358: Feuerwehrhaus:pPlane1
+    6400360: Feuerwehrhaus:pPlane2
+    6400362: Geisterturm2:Dachstube
+    6400364: Geisterturm2:Dachstuben_Fenster
+    6400366: Geisterturm2:Dachstuben_Fenster1
+    6400368: Geisterturm2:Fachwerk
+    6400370: Geisterturm2:Kamin_Vorne
+    6400372: Geisterturm2:Kamin_Vorne1
+    6400374: Geisterturm2:Passage:Dach1
+    6400376: Geisterturm2:Passage:Dach2
+    6400378: Geisterturm2:Passage:Fenster
+    6400380: Geisterturm2:Passage:Fenster1
+    6400382: Geisterturm2:polySurface11
+    6400384: Geisterturm2:polySurface114
+    6400386: Geisterturm2:polySurface115
+    6400388: Geisterturm2:polySurface12
+    6400390: Geisterturm2:polySurface13
+    6400392: Geisterturm2:polySurface14
+    6400394: Geisterturm2:polySurface9
+    6400396: Geisterturm2:Ring
+    6400398: Geisterturm2:Ring1
+    6400400: Geisterturm2:Spitze
+    6400402: Geisterturm2:Turm 1
+    6400404: Geisterturm2:Turmfenster
+    6400406: Geisterturm2:Weisses
+    6400408: Grosses_Fachwerk:Dach
+    6400410: Grosses_Fachwerk:Dach 1
+    6400412: Grosses_Fachwerk:Dach1
+    6400414: Grosses_Fachwerk:Fachwerk1
+    6400416: Grosses_Fachwerk:Femster
+    6400418: Grosses_Fachwerk:Femster1
+    6400420: Grosses_Fachwerk:Holz1
+    6400422: Grosses_Fachwerk:Holz2
+    6400424: Grosses_Fachwerk:Holz5
+    6400426: Grosses_Fachwerk:Kreuz
+    6400428: Grosses_Fachwerk:polySurface1
+    6400430: Grosses_Fachwerk:polySurface2
+    6400432: Grosses_Fachwerk:polySurface3
+    6400434: Haeuserreihe:Dach
+    6400436: Haeuserreihe:Innenwand1
+    6400438: Haeuserreihe:Mittlere_Reihe
+    6400440: Haeuserreihe:Untere_Reihe
+    6400442: Hinter_Turm:Dach
+    6400444: Hinter_Turm:Dach1
+    6400446: Hinter_Turm:Femster
+    6400448: Hinter_Turm:Turm
+    6400450: Hinterturm:Dach
+    6400452: Hinterturm:Dach1
+    6400454: Hinterturm:Femster
+    6400456: Hinterturm:Turm
+    6400458: Kirchturm:Dach
+    6400460: Kirchturm:Dach 1
+    6400462: Kirchturm:Dach1
+    6400464: Kirchturm:eins
+    6400466: Kirchturm:eins 1
+    6400468: Kirchturm:eins 2
+    6400470: Kirchturm:eins 3
+    6400472: Kirchturm:Elf 4
+    6400474: Kirchturm:Elf 5
+    6400476: Kirchturm:Elf 6
+    6400478: Kirchturm:Elf 7
+    6400480: Kirchturm:Hinten
+    6400482: Kirchturm:Kreuz
+    6400484: Kirchturm:Minuten_z
+    6400486: Kirchturm:Minuten_z 1
+    6400488: Kirchturm:Minuten_z 2
+    6400490: Kirchturm:Minuten_z 3
+    6400492: Kirchturm:pCube10
+    6400494: Kirchturm:pCube10 1
+    6400496: Kirchturm:pCube10 2
+    6400498: Kirchturm:pCube10 3
+    6400500: Kirchturm:pCube11
+    6400502: Kirchturm:pCube11 1
+    6400504: Kirchturm:pCube11 2
+    6400506: Kirchturm:pCube11 3
+    6400508: Kirchturm:pCube12
+    6400510: Kirchturm:pCube12 1
+    6400512: Kirchturm:pCube12 2
+    6400514: Kirchturm:pCube12 3
+    6400516: Kirchturm:pCube13
+    6400518: Kirchturm:pCube13 1
+    6400520: Kirchturm:pCube13 2
+    6400522: Kirchturm:pCube13 3
+    6400524: Kirchturm:pCube24
+    6400526: Kirchturm:pCube24 1
+    6400528: Kirchturm:pCube24 2
+    6400530: Kirchturm:pCube24 3
+    6400532: Kirchturm:pCube25
+    6400534: Kirchturm:pCube25 1
+    6400536: Kirchturm:pCube25 2
+    6400538: Kirchturm:pCube25 3
+    6400540: Kirchturm:pCube26
+    6400542: Kirchturm:pCube26 1
+    6400544: Kirchturm:pCube26 2
+    6400546: Kirchturm:pCube26 3
+    6400548: Kirchturm:pCube27
+    6400550: Kirchturm:pCube27 1
+    6400552: Kirchturm:pCube27 2
+    6400554: Kirchturm:pCube27 3
+    6400556: Kirchturm:pCube28
+    6400558: Kirchturm:pCube28 1
+    6400560: Kirchturm:pCube28 2
+    6400562: Kirchturm:pCube28 3
+    6400564: Kirchturm:pCube29
+    6400566: Kirchturm:pCube29 1
+    6400568: Kirchturm:pCube29 2
+    6400570: Kirchturm:pCube29 3
+    6400572: Kirchturm:pCube31
+    6400574: Kirchturm:pCube31 1
+    6400576: Kirchturm:pCube31 2
+    6400578: Kirchturm:pCube31 3
+    6400580: Kirchturm:pCube32
+    6400582: Kirchturm:pCube32 1
+    6400584: Kirchturm:pCube32 2
+    6400586: Kirchturm:pCube32 3
+    6400588: Kirchturm:pCube33
+    6400590: Kirchturm:pCube33 1
+    6400592: Kirchturm:pCube33 2
+    6400594: Kirchturm:pCube33 3
+    6400596: Kirchturm:pCube34
+    6400598: Kirchturm:pCube34 1
+    6400600: Kirchturm:pCube34 2
+    6400602: Kirchturm:pCube34 3
+    6400604: Kirchturm:pCube35
+    6400606: Kirchturm:pCube35 1
+    6400608: Kirchturm:pCube35 2
+    6400610: Kirchturm:pCube35 3
+    6400612: Kirchturm:pCube36
+    6400614: Kirchturm:pCube36 1
+    6400616: Kirchturm:pCube36 2
+    6400618: Kirchturm:pCube36 3
+    6400620: Kirchturm:pCube37
+    6400622: Kirchturm:pCube37 1
+    6400624: Kirchturm:pCube37 2
+    6400626: Kirchturm:pCube37 3
+    6400628: Kirchturm:pCube38
+    6400630: Kirchturm:pCube38 1
+    6400632: Kirchturm:pCube38 2
+    6400634: Kirchturm:pCube38 3
+    6400636: Kirchturm:pCube39
+    6400638: Kirchturm:pCube39 1
+    6400640: Kirchturm:pCube39 2
+    6400642: Kirchturm:pCube39 3
+    6400644: Kirchturm:pCube40
+    6400646: Kirchturm:pCube40 1
+    6400648: Kirchturm:pCube40 2
+    6400650: Kirchturm:pCube40 3
+    6400652: Kirchturm:pCube41
+    6400654: Kirchturm:pCube41 1
+    6400656: Kirchturm:pCube41 2
+    6400658: Kirchturm:pCube41 3
+    6400660: Kirchturm:pCube42
+    6400662: Kirchturm:pCube42 1
+    6400664: Kirchturm:pCube42 2
+    6400666: Kirchturm:pCube42 3
+    6400668: Kirchturm:pCube5
+    6400670: Kirchturm:pCube5 1
+    6400672: Kirchturm:pCube5 2
+    6400674: Kirchturm:pCube5 3
+    6400676: Kirchturm:pCube6
+    6400678: Kirchturm:pCube6 1
+    6400680: Kirchturm:pCube6 2
+    6400682: Kirchturm:pCube6 3
+    6400684: Kirchturm:pCube7
+    6400686: Kirchturm:pCube7 1
+    6400688: Kirchturm:pCube7 2
+    6400690: Kirchturm:pCube7 3
+    6400692: Kirchturm:pCube9
+    6400694: Kirchturm:pCube9 1
+    6400696: Kirchturm:pCube9 2
+    6400698: Kirchturm:pCube9 3
+    6400700: Kirchturm:pSphere1
+    6400702: Kirchturm:pSphere1 1
+    6400704: Kirchturm:pSphere1 2
+    6400706: Kirchturm:pSphere1 3
+    6400708: Kirchturm:Sekunden_Z
+    6400710: Kirchturm:Sekunden_Z 1
+    6400712: Kirchturm:Sekunden_Z 2
+    6400714: Kirchturm:Sekunden_Z 3
+    6400716: Kirchturm:Stunden_Z
+    6400718: Kirchturm:Stunden_Z 1
+    6400720: Kirchturm:Stunden_Z 2
+    6400722: Kirchturm:Stunden_Z 3
+    6400724: Kirchturm:Turm1
+    6400726: Kirchturm:Uhr
+    6400728: Kirchturm:Uhr 1
+    6400730: Kirchturm:Uhr 2
+    6400732: Kirchturm:Uhr 3
+    6400734: Kirchturm:Unterteilugn_Mitte
+    6400736: Kirchturm:Unterteilugn_Mitte 1
+    6400738: Kirchturm:Unterteilugn_Mitte 2
+    6400740: Kirchturm:Unterteilugn_Mitte 3
+    6400742: Kirchturm:Vorhaus 1
+    6400744: Kirchturm:Vorne
+    6400746: Kirchturm:Zehn
+    6400748: Kirchturm:Zehn 1
+    6400750: Kirchturm:Zehn 2
+    6400752: Kirchturm:Zehn 3
+    6400754: Mauerturm:Dach1
+    6400756: Mauerturm:Dach1 1
+    6400758: Mauerturm:Dach1 10
+    6400760: Mauerturm:Dach1 2
+    6400762: Mauerturm:Dach1 3
+    6400764: Mauerturm:Dach1 4
+    6400766: Mauerturm:Dach1 5
+    6400768: Mauerturm:Dach1 6
+    6400770: Mauerturm:Dach1 7
+    6400772: Mauerturm:Dach1 8
+    6400774: Mauerturm:Dach1 9
+    6400776: Mauerturm:Dach2
+    6400778: Mauerturm:Dach2 1
+    6400780: Mauerturm:Dach2 2
+    6400782: Mauerturm:Dach2 3
+    6400784: Mauerturm:Dach2 4
+    6400786: Mauerturm:Dach2 5
+    6400788: Mauerturm:Dach2 6
+    6400790: Mauerturm:Dach2 7
+    6400792: Mauerturm:Dach2 8
+    6400794: Mauerturm:Dach2 9
+    6400796: Mauerturm:Turm 11
+    6400798: Mauerturm:Turm 12
+    6400800: Mauerturm:Turm 13
+    6400802: Mauerturm:Turm 14
+    6400804: Mauerturm:Turm 15
+    6400806: Mauerturm:Turm 16
+    6400808: Mauerturm:Turm 17
+    6400810: Mauerturm:Turm 18
+    6400812: Mauerturm:Turm 19
+    6400814: Mauerturm:Turm 20
+    6400816: Mauerturm:Turm 21
+    6400818: Mauerturm:Turm4
+    6400820: nurbsToPoly2
+    6400822: nurbsToPoly2 1
+    6400824: nurbsToPoly2 2
+    6400826: nurbsToPoly2 3
+    6400828: nurbsToPoly2 4
+    6400830: Passage:Burgtor:Turm1:Burgtor:pCube50
+    6400832: Passage:Burgtor:Turm1:Burgtor:pCube51
+    6400834: Passage:Burgtor:Turm1:Burgtor:pCube52
+    6400836: Passage:Burgtor:Turm1:Burgtor:pCube53
+    6400838: Passage:Burgtor:Turm1:Burgtor:pCube54
+    6400840: Passage:Burgtor:Turm1:Burgtor:pCube55
+    6400842: Passage:Burgtor:Turm1:Burgtor:pCube56
+    6400844: Passage:Burgtor:Turm1:Burgtor:pCube57
+    6400846: Passage:Burgtor:Turm1:Burgtor:pCube58
+    6400848: Passage:Burgtor:Turm1:Burgtor:pCube59
+    6400850: Passage:Burgtor:Turm1:Burgtor:pCube63
+    6400852: Passage:Burgtor:Turm1:Burgtor:pCube64
+    6400854: Passage:Burgtor:Turm1:Burgtor:pCube65
+    6400856: Passage:Burgtor:Turm1:Burgtor:pCube66
+    6400858: Passage:Dach
+    6400860: Passage:Dach1
+    6400862: Passage:Dach_im_Dach
+    6400864: Passage:Fenster
+    6400866: Passage:Gebaeude
+    6400868: Passage:Innenraum1
+    6400870: Passage:Kamin_Seite1
+    6400872: Passage:Kamin_Seite2
+    6400874: Passage:Kamin_Seite3
+    6400876: pCube1
+    6400878: pCube1 1
+    6400880: pCube1 2
+    6400882: pCube1 3
+    6400884: pCube1 4
+    6400886: pCube2
+    6400888: pCube2 1
+    6400890: pCube2 2
+    6400892: pCube2 3
+    6400894: pCube2 4
+    6400896: pCylinder1
+    6400898: pCylinder1 1
+    6400900: pCylinder1 10
+    6400902: pCylinder1 11
+    6400904: pCylinder1 12
+    6400906: pCylinder1 13
+    6400908: pCylinder1 14
+    6400910: pCylinder1 15
+    6400912: pCylinder1 16
+    6400914: pCylinder1 17
+    6400916: pCylinder1 18
+    6400918: pCylinder1 19
+    6400920: pCylinder1 2
+    6400922: pCylinder1 20
+    6400924: pCylinder1 21
+    6400926: pCylinder1 22
+    6400928: pCylinder1 23
+    6400930: pCylinder1 24
+    6400932: pCylinder1 25
+    6400934: pCylinder1 26
+    6400936: pCylinder1 3
+    6400938: pCylinder1 4
+    6400940: pCylinder1 5
+    6400942: pCylinder1 6
+    6400944: pCylinder1 7
+    6400946: pCylinder1 8
+    6400948: pCylinder1 9
+    6400950: pCylinder2
+    6400952: pCylinder2 1
+    6400954: pCylinder2 10
+    6400956: pCylinder2 11
+    6400958: pCylinder2 12
+    6400960: pCylinder2 13
+    6400962: pCylinder2 14
+    6400964: pCylinder2 15
+    6400966: pCylinder2 16
+    6400968: pCylinder2 17
+    6400970: pCylinder2 18
+    6400972: pCylinder2 19
+    6400974: pCylinder2 2
+    6400976: pCylinder2 20
+    6400978: pCylinder2 21
+    6400980: pCylinder2 22
+    6400982: pCylinder2 23
+    6400984: pCylinder2 24
+    6400986: pCylinder2 25
+    6400988: pCylinder2 26
+    6400990: pCylinder2 3
+    6400992: pCylinder2 4
+    6400994: pCylinder2 5
+    6400996: pCylinder2 6
+    6400998: pCylinder2 7
+    6401000: pCylinder2 8
+    6401002: pCylinder2 9
+    6401004: pCylinder3
+    6401006: pCylinder3 1
+    6401008: pCylinder3 10
+    6401010: pCylinder3 11
+    6401012: pCylinder3 12
+    6401014: pCylinder3 13
+    6401016: pCylinder3 14
+    6401018: pCylinder3 15
+    6401020: pCylinder3 16
+    6401022: pCylinder3 17
+    6401024: pCylinder3 18
+    6401026: pCylinder3 19
+    6401028: pCylinder3 2
+    6401030: pCylinder3 20
+    6401032: pCylinder3 21
+    6401034: pCylinder3 22
+    6401036: pCylinder3 23
+    6401038: pCylinder3 24
+    6401040: pCylinder3 25
+    6401042: pCylinder3 26
+    6401044: pCylinder3 3
+    6401046: pCylinder3 4
+    6401048: pCylinder3 5
+    6401050: pCylinder3 6
+    6401052: pCylinder3 7
+    6401054: pCylinder3 8
+    6401056: pCylinder3 9
+    6401058: pPipe1
+    6401060: pPipe1 1
+    6401062: pPipe1 10
+    6401064: pPipe1 11
+    6401066: pPipe1 12
+    6401068: pPipe1 13
+    6401070: pPipe1 14
+    6401072: pPipe1 15
+    6401074: pPipe1 16
+    6401076: pPipe1 17
+    6401078: pPipe1 18
+    6401080: pPipe1 19
+    6401082: pPipe1 2
+    6401084: pPipe1 20
+    6401086: pPipe1 21
+    6401088: pPipe1 22
+    6401090: pPipe1 23
+    6401092: pPipe1 24
+    6401094: pPipe1 25
+    6401096: pPipe1 26
+    6401098: pPipe1 3
+    6401100: pPipe1 4
+    6401102: pPipe1 5
+    6401104: pPipe1 6
+    6401106: pPipe1 7
+    6401108: pPipe1 8
+    6401110: pPipe1 9
+    6401112: pPlane1
+    6401114: pPlane2
+    6401116: pPlane3
+    6401118: pPlane4
+    6401120: Zwischenhaus:Dach 1
+    6401122: Zwischenhaus:Etage1
+    6401124: Zwischenhaus:Fachwerk
+    6401126: Zwischenhaus:Holz
+    6401128: Zwischenhaus:Holz3
+    6401130: Zwischenhaus:Holz4
+    6401132: Zwischenhaus:Holz5
+    6401134: Zwischenhaus:Holz6
+    6401136: Zwischenhaus:Holz7
+    6401138: Zwischenhaus:Innenraum
+    6401140: Zwischenhaus:Kamin_Seite3
+    6401142: Zwischenhaus:Kamin_Seite4
+    6401144: Zwischenhaus:Obere_Etage
+    6401146: Zwischenhaus:Passage:Kamin_Seite3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
